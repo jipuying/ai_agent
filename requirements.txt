@@ -1,2 +1,17 @@
 #for redfine scraping
 undetected-chromedriver
+
+# for screenshot/website/documentation llm acquistion
+langchain_community
+tiktoken 
+langchain-openai 
+langchainhub 
+chromadb 
+langchain
+
+beautifulsoup4
+chromadb
+pypdf
+pytesseract 
+pillow
+pdf2image
