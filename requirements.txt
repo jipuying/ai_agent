@@ -1,2 +1,7 @@
 #for redfine scraping
 undetected-chromedriver
+
+# for news scraping
+newsapi-python
+newspaper3k
+lxml_html_clean
