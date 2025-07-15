@@ -1,0 +1,40 @@
+{
+  "Address": "318 Genoa Dr #160, Redwood Shores, CA 94065",
+  "Price": 1525000,
+  "Bedrooms": 3,
+  "Bathrooms": 2.5,
+  "Size": 1610,
+  "LotSize": null,
+  "YearBuilt": 1995,
+  "PropertyType": "Condo",
+  "GarageSpaces": 2,
+  "Realtor": {
+    "name": "Dan Lyons",
+    "agency": "KW Advisors"
+  },
+  "URL": "https://www.redfin.com/CA/Redwood-City/318-Genoa-Dr-94065/unit-160/home/1550134",
+  "HOA": "$447/mo",
+  "ClimateFactors": {
+    "Flood Factor": "Information not available",
+    "Fire Factor": "Information not available",
+    "Heat Factor": "Information not available",
+    "Wind Factor": "Information not available",
+    "Air Factor": "Information not available"
+  },
+  "SchoolRatings": {
+    "PrimarySchool": {
+      "name": "Redwood Shores Elementary School",
+      "rating": 9
+    },
+    "MiddleSchool": {
+      "name": "Ralston Intermediate School",
+      "rating": 8
+    },
+    "HighSchool": {
+      "name": "Carlmont High School",
+      "rating": 9
+    }
+  },
+  "PricePerSqft": 947.52,
+  "Description": "Beautifully updated 3-bedroom, 2.5-bathroom condo with sun-filled rooms, spacious eat-in kitchen, large dining room, easy freeway access, nearby shopping, and a 2-car garage with extra storage space. Located minutes from a serene lagoon, parks, and scenic trails."
+}

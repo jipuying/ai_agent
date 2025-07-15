@@ -1,84 +1,3 @@
-import os
-from PIL import Image
-import pytesseract
-from datetime import datetime
-import json
-from langchain.schema import Document
-from langchain_community.chat_models import ChatOpenAI
-from langchain.prompts import ChatPromptTemplate
-from dotenv import load_dotenv
-
-# === Load .env variables ===
-load_dotenv()
-
-def main():
-    # === Load Screenshot and Extract Text ===
-    image = Image.open("./emoji-chat.png")
-    ocr_text = pytesseract.image_to_string(image)
-
-    # === Timestamp ===
-    collected_time = datetime.now().isoformat()
-
-    os.environ["OPENAI_API_KEY"]
-    # === LLM Setup ===
-    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
-
-    # === Prompt Template for Extraction ===
-    prompt_template = ChatPromptTemplate.from_template("""
-    You are an intelligent document extractor.
-
-    Given the following raw OCR text, extract the following structured information:
-    1. Datatext: Reconstruct the cleaned version of the full content
-    2. Dataabstract: 1–2 sentence summary
-    3. Subject: The main topic or theme
-    4. Summary: Bullet-point summary
-    5. Keywords: Relevant keywords
-    6. attachedLink: any link if it appears in the content
-
-    OCR Text:
-    \"\"\"{ocr_text}\"\"\"
-
-    Return your response as a JSON object with keys:
-    Datatext, Dataabstract, Subject, Summary, Keywords, attachedLink.
-    """)
-
-    # === Send to LLM ===
-    messages = prompt_template.format_messages(ocr_text=ocr_text)
-    response = llm(messages)
-
-    # === Attempt to Parse JSON from LLM Output ===
-    try:
-        parsed_llm = json.loads(response.content)
-    except Exception as e:
-        print("⚠️ Failed to parse JSON from LLM. Raw output will be saved.")
-        parsed_llm = {
-            "Datatext": "",
-            "Dataabstract": "",
-            "Subject": "",
-            "Summary": "",
-            "Keywords": [],
-            "attachedLink": "",
-            "LLM_raw": response.content
-        }
-
-    # === Combine Final Output ===
-    final_output = {
-        "OCRtext": ocr_text.strip(),
-        "Datatext": parsed_llm.get("Datatext", ""),
-        "Dataabstract": parsed_llm.get("Dataabstract", ""),
-        "Subject": parsed_llm.get("Subject", ""),
-        "Summary": parsed_llm.get("Summary", ""),
-        "Keywords": parsed_llm.get("Keywords", []),
-        "CollectedTime": collected_time,
-        "dataCategory": "",
-        "attachedLink": parsed_llm.get("attachedLink", "")
-    }
-
-    # === Save as JSON ===
-    with open("extracted_info.json", "w") as f:
-        json.dump(final_output, f, indent=2, ensure_ascii=False)
-
-    print("✅ Done! Saved to extracted_info.json")
 
 import bs4
 from PIL import Image
@@ -92,6 +11,17 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+
+import os
+from PIL import Image
+import pytesseract
+from datetime import datetime
+import json
+import webbrowser   
+from langchain_community.document_loaders import TextLoader
+from langchain_community.chat_models import ChatOpenAI
+from langchain.prompts import ChatPromptTemplate
+from dotenv import load_dotenv
 
 # PDF/website
 
@@ -155,6 +85,76 @@ def PDF_llm():
     # Question
     answer = rag_chain.invoke("Can you help me to summarize this main idea of paper?")
     print(answer)
+
+def main():
+    # === Load Screenshot and Extract Text ===
+    image = Image.open("./emoji-chat.png")
+    ocr_text = pytesseract.image_to_string(image)
+
+    # === Timestamp ===
+    collected_time = datetime.now().isoformat()
+
+    os.environ["OPENAI_API_KEY"]
+    # === LLM Setup ===
+    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
+
+    # === Prompt Template for Extraction ===
+    prompt_template = ChatPromptTemplate.from_template("""
+    You are an intelligent document extractor.
+
+    Given the following raw OCR text, extract the following structured information:
+    1. Datatext: Reconstruct the cleaned version of the full content
+    2. Dataabstract: 1–2 sentence summary
+    3. Subject: The main topic or theme
+    4. Summary: Bullet-point summary
+    5. Keywords: Relevant keywords
+    6. attachedLink: any link if it appears in the content
+                                                       
+
+    OCR Text:
+    \"\"\"{ocr_text}\"\"\"
+
+    Return your response as a JSON object with keys:
+    Datatext, Dataabstract, Subject, Summary, Keywords, attachedLink.
+    """)
+
+    # === Send to LLM ===
+    messages = prompt_template.format_messages(ocr_text=ocr_text)
+    response = llm(messages)
+
+    # === Attempt to Parse JSON from LLM Output ===
+    try:
+        parsed_llm = json.loads(response.content)
+    except Exception as e:
+        print("⚠️ Failed to parse JSON from LLM. Raw output will be saved.")
+        parsed_llm = {
+            "Datatext": "",
+            "Dataabstract": "",
+            "Subject": "",
+            "Summary": "",
+            "Keywords": [],
+            "attachedLink": "",
+            "LLM_raw": response.content
+        }
+
+    # === Combine Final Output ===
+    final_output = {
+        "OCRtext": ocr_text.strip(),
+        "Datatext": parsed_llm.get("Datatext", ""),
+        "Dataabstract": parsed_llm.get("Dataabstract", ""),
+        "Subject": parsed_llm.get("Subject", ""),
+        "Summary": parsed_llm.get("Summary", ""),
+        "Keywords": parsed_llm.get("Keywords", []),
+        "CollectedTime": collected_time,
+        "dataCategory": "",
+        "attachedLink": parsed_llm.get("attachedLink", "")
+    }
+
+    # === Save as JSON ===
+    with open("extracted_info.json", "w") as f:
+        json.dump(final_output, f, indent=2, ensure_ascii=False)
+
+    print("✅ Done! Saved to extracted_info.json")
 
 if __name__ == "__main__":
     main()
