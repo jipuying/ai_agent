@@ -13,13 +13,16 @@
     "agency": "KW Advisors"
   },
   "URL": "https://www.redfin.com/CA/Redwood-City/318-Genoa-Dr-94065/unit-160/home/1550134",
-  "HOA": "$447/mo",
+  "HOA": {
+    "fee": 447,
+    "description": "HOA Dues"
+  },
   "ClimateFactors": {
-    "Flood Factor": "Information not available",
-    "Fire Factor": "Information not available",
-    "Heat Factor": "Information not available",
-    "Wind Factor": "Information not available",
-    "Air Factor": "Information not available"
+    "Flood Factor": "We’re working on getting current and accurate flood risk information for this home.",
+    "Fire Factor": "We’re working on getting current and accurate fire risk information for this home.",
+    "Heat Factor": "We’re working on getting current and accurate heat risk information for this home.",
+    "Wind Factor": "We’re working on getting current and accurate wind risk information for this home.",
+    "Air Factor": "We’re working on getting current and accurate air risk information for this home."
   },
   "SchoolRatings": {
     "PrimarySchool": {
@@ -35,6 +38,6 @@
       "rating": 9
     }
   },
-  "PricePerSqft": 947.52,
-  "Description": "Beautifully updated 3-bedroom, 2.5-bathroom condo with sun-filled rooms, spacious eat-in kitchen, large dining room, easy freeway access, nearby shopping, and a 2-car garage with extra storage space. Located minutes from a serene lagoon, parks, and scenic trails."
+  "PricePerSqft": 947,
+  "Description": "This beautifully updated 3-bedroom, 2.5-bathroom home offers the perfect blend of comfort and convenience. Enjoy bright, sun-filled rooms throughout, with a spacious eat-in kitchen. The large dining room is perfect for holiday meals and formal occasions. Located just minutes from a serene lagoon, parks, and scenic trails, this home offers plenty of recreational opportunities. Plus, easy freeway access, nearby shopping, and a 2-car garage with extra storage space make this the ideal place to call home."
 }

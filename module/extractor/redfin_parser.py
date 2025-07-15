@@ -20,7 +20,7 @@ def txt_llm():
     # === Load Redfin .txt file ===
     loader = TextLoader("/Users/yebingcong/code/ai_agent/data/example1/raw/redfin.txt")
     docs = loader.load()
-    ocr_text = docs[0].page_content
+    text = docs[0].page_content
 
     # === LLM setup ===
     llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
@@ -51,13 +51,13 @@ def txt_llm():
     15. PricePerSqft – Calculate this as: `price / size`, rounded to 2 decimal places
     16. Description – A brief, cleaned summary of the full listing description
 
-    OCR Text:
-    \"\"\"{ocr_text}\"\"\"                                          
+    Redfin Text crawl from website:
+    \"\"\"{text}\"\"\"                                          
 
     Return your response as a JSON object with keys.
     """)
 
-    messages = prompt_template.format_messages(ocr_text=ocr_text)
+    messages = prompt_template.format_messages(text=text)
     response = llm.invoke(messages)
         
 
