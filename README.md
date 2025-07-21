@@ -24,7 +24,7 @@ Property Agent is an intelligent assistant that helps prospective homebuyers ana
 
 ## ✨ Key Features
 ### 🧱 Building & Legal Insights
-- Extracts and summarizes key **building attributes** from platforms like Redfin.
+- Extracts and summarizes key **building attributes** from platforms.
 - Reviews **title status** and **ownership history** for red flags.
 - Visualizes trends from **past transactions**.
 
@@ -69,7 +69,7 @@ Property Agent is an intelligent assistant that helps prospective homebuyers ana
 
 ## 📂 Example Outputs
 
-Examples of processed Redfin listings, community analysis tables, and disclosure summaries are available in the [`examples/`](./examples) folder.
+Examples of processed listings, community analysis tables, and disclosure summaries are available in the [`examples/`](./examples) folder.
 
 ---
 
@@ -95,7 +95,7 @@ OPENAI_API_KEY=your_openai_key
 ```
 ### 🧪 How It Works
 End-to-End RAG Flow
-Crawl property listings (e.g., Redfin)
+Crawl property listings
 
 Chunk and embed property-related documents
 
@@ -107,7 +107,7 @@ Feed to LLM for answer generation
 
 ### 📈 Roadmap
 
-- [x] Redfin crawler & data parser
+- [x] Property crawler & data parser
 
 - [x] LLM-based document summarization
 
