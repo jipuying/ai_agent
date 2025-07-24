@@ -1,0 +1,122 @@
+services:
+  backend:
+    build: ./backend
+    env_file:
+      - .env
+    volumes:
+      - ./backend:/app
+      - ./uploads:/app/uploads
+    networks:
+      - app_network
+    depends_on:
+      db:
+        condition: service_healthy
+      chromadb:
+        condition: service_started
+      minio:
+        condition: service_started
+    restart: on-failure
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+
+  frontend:
+    build: ./frontend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - app_network
+
+  db:
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=ragwebui
+      - MYSQL_USER=ragwebui
+      - MYSQL_PASSWORD=ragwebui
+      - TZ=Asia/Shanghai
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - app_network
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "mysqladmin",
+          "ping",
+          "-h",
+          "localhost",
+          "-u",
+          "$$MYSQL_USER",
+          "--password=$$MYSQL_PASSWORD",
+        ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  chromadb:
+    image: chromadb/chroma:latest
+    ports:
+      - "8001:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+    networks:
+      - app_network
+
+  # For Qdrant, Remove the comment and run the following command to start the service
+  # qdrant:
+  #   image: qdrant/qdrant:latest
+  #   ports:
+  #     - "6333:6333" # REST API
+  #     - "6334:6334" # GRPC
+  #   volumes:
+  #     - qdrant_data:/qdrant/storage
+  #   environment:
+  #     - QDRANT_ALLOW_RECOVERY_MODE=true
+  #   networks:
+  #     - app_network
+
+  minio:
+    image: minio/minio:latest
+    ports:
+      - "9000:9000" # API port
+      - "9001:9001" # Console port
+    environment:
+      - MINIO_ROOT_USER=minioadmin
+      - MINIO_ROOT_PASSWORD=minioadmin
+    volumes:
+      - minio_data:/data
+    command: server --console-address ":9001" /data
+    networks:
+      - app_network
+
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - frontend
+      - backend
+      - minio
+    networks:
+      - app_network
+
+volumes:
+  mysql_data:
+  chroma_data:
+  minio_data:
+  # qdrant_data:
+
+networks:
+  app_network:
+    driver: bridge
