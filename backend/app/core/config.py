@@ -57,7 +57,8 @@ class Settings(BaseSettings):
     VECTOR_STORE_TYPE: str = os.getenv("VECTOR_STORE_TYPE", "chroma")
 
     # Chroma DB settings
-    CHROMA_DB_HOST: str = os.getenv("CHROMA_DB_HOST", "chromadb")
+    # CHROMA_DB_HOST: str = os.getenv("CHROMA_DB_HOST", "chromadb") # This is the original code in Docker
+    CHROMA_DB_HOST: str = os.getenv("CHROMA_DB_HOST", "localhost")
     CHROMA_DB_PORT: int = int(os.getenv("CHROMA_DB_PORT", "8000"))
 
     # Qdrant DB settings
