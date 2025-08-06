@@ -84,10 +84,11 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     environment:
       - MYSQL_ROOT_PASSWORD=root
-      - MYSQL_DATABASE=ragwebui
-      - MYSQL_USER=ragwebui
-      - MYSQL_PASSWORD=ragwebui
-      - TZ=Asia/Shanghai
+      - MYSQL_DATABASE=realestateaiagent
+      - MYSQL_USER=realestateaiagent
+      - MYSQL_PASSWORD=realestateaiagent
+      - TZ=America/Los_Angeles   # Pacific Time (PT)
+
     ports:
       - "3306:3306"
     volumes:

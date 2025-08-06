@@ -76,9 +76,9 @@ CHROMA_DB_PORT=8000
 
 # MySQL 配置
 MYSQL_SERVER=db
-MYSQL_USER=ragwebui
-MYSQL_PASSWORD=ragwebui
-MYSQL_DATABASE=ragwebui
+MYSQL_USER=realestateaiagent
+MYSQL_PASSWORD=realestateaiagent
+MYSQL_DATABASE=realestateaiagent
 
 # MinIO 配置
 MINIO_ENDPOINT=minio:9000

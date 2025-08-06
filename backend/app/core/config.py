@@ -12,9 +12,9 @@ class Settings(BaseSettings):
     # MySQL settings
     MYSQL_SERVER: str = os.getenv("MYSQL_SERVER", "localhost")
     MYSQL_PORT: int = int(os.getenv("MYSQL_PORT", "3306"))
-    MYSQL_USER: str = os.getenv("MYSQL_USER", "ragwebui")
-    MYSQL_PASSWORD: str = os.getenv("MYSQL_PASSWORD", "ragwebui")
-    MYSQL_DATABASE: str = os.getenv("MYSQL_DATABASE", "ragwebui")
+    MYSQL_USER: str = os.getenv("MYSQL_USER", "realestateaiagent")
+    MYSQL_PASSWORD: str = os.getenv("MYSQL_PASSWORD", "realestateaiagent")
+    MYSQL_DATABASE: str = os.getenv("MYSQL_DATABASE", "realestateaiagent")
     SQLALCHEMY_DATABASE_URI: Optional[str] = None
 
     @property
@@ -57,8 +57,8 @@ class Settings(BaseSettings):
     VECTOR_STORE_TYPE: str = os.getenv("VECTOR_STORE_TYPE", "chroma")
 
     # Chroma DB settings
-    # CHROMA_DB_HOST: str = os.getenv("CHROMA_DB_HOST", "chromadb") # This is the original code in Docker
-    CHROMA_DB_HOST: str = os.getenv("CHROMA_DB_HOST", "localhost")
+    CHROMA_DB_HOST: str = os.getenv("CHROMA_DB_HOST", "chromadb") # This is the original code in Docker
+    # CHROMA_DB_HOST: str = os.getenv("CHROMA_DB_HOST", "localhost")
     CHROMA_DB_PORT: int = int(os.getenv("CHROMA_DB_PORT", "8000"))
 
     # Qdrant DB settings
