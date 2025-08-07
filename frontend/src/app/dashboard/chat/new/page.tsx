@@ -99,7 +99,7 @@ export default function NewChatPage() {
             className="inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2"
           >
             <Plus className="mr-2 h-4 w-4" />
-            Create Knowledge Base
+            Add Property Disclosure
           </Link>
         </div>
       </DashboardLayout>
@@ -112,7 +112,7 @@ export default function NewChatPage() {
         <div>
           <h2 className="text-3xl font-bold tracking-tight">Start New Chat</h2>
           <p className="text-muted-foreground">
-            Select a knowledge base to chat with
+            Select a property to chat with
           </p>
         </div>
 
@@ -137,7 +137,7 @@ export default function NewChatPage() {
 
           <div className="space-y-2">
             <label className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70">
-              Knowledge Base
+              Property Disclosure
             </label>
             <div className="text-xs text-muted-foreground">
               Multiple selection coming soon...

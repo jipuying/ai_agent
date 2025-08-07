@@ -28,9 +28,9 @@ export default function DashboardLayout({
   };
 
   const navigation = [
-    { name: "Knowledge Base", href: "/dashboard/knowledge", icon: Book },
+    { name: "Property Disclosure", href: "/dashboard/knowledge", icon: Book },
     { name: "Chat", href: "/dashboard/chat", icon: MessageSquare },
-    { name: "API Keys", href: "/dashboard/api-keys", icon: User },
+    // { name: "API Keys", href: "/dashboard/api-keys", icon: User },
   ];
 
   return (

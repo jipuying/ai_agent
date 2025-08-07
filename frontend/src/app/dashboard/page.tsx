@@ -79,7 +79,7 @@ export default function DashboardPage() {
               className="inline-flex items-center justify-center rounded-full bg-blue-600 px-6 py-3 text-sm font-medium text-white hover:bg-blue-700 transition-all shadow-lg shadow-blue-600/20"
             >
               <Plus className="mr-2 h-4 w-4" />
-              New Knowledge Base
+              Add Property Disclosure
             </a>
           </div>
         </div>
@@ -96,7 +96,7 @@ export default function DashboardPage() {
                   {stats.knowledgeBases}
                 </h3>
                 <p className="text-slate-500 dark:text-slate-400 mt-1">
-                  Knowledge Bases
+                  Property Disclosure
                 </p>
               </div>
             </div>
@@ -146,7 +146,7 @@ export default function DashboardPage() {
               <Brain className="h-8 w-8 text-blue-600 dark:text-blue-400" />
             </div>
             <h3 className="text-lg font-medium text-slate-900 dark:text-white mb-2">
-              Create Knowledge Base
+              Add Property Disclosure
             </h3>
             <p className="text-sm text-slate-500 dark:text-slate-400 text-center">
               Build a new AI-powered knowledge repository

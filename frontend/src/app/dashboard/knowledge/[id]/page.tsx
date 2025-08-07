@@ -30,7 +30,7 @@ export default function KnowledgeBasePage() {
   return (
     <DashboardLayout>
       <div className="flex justify-between items-center mb-8">
-        <h1 className="text-3xl font-bold">Knowledge Base</h1>
+        <h1 className="text-3xl font-bold">Property Disclosure</h1>
         <Dialog open={dialogOpen} onOpenChange={setDialogOpen}>
           <DialogTrigger asChild>
             <Button>

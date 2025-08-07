@@ -37,7 +37,7 @@ export default function NewKnowledgeBasePage() {
 
       router.push(`/dashboard/knowledge/${data.id}`);
     } catch (error) {
-      console.error("Failed to create knowledge base:", error);
+      console.error("Failed to add property disclosure:", error);
       if (error instanceof ApiError) {
         setError(error.message);
         toast({
@@ -46,7 +46,7 @@ export default function NewKnowledgeBasePage() {
           variant: "destructive",
         });
       } else {
-        setError("Failed to create knowledge base");
+        setError("Failed to add property disclosure");
       }
     } finally {
       setIsSubmitting(false);
@@ -58,10 +58,10 @@ export default function NewKnowledgeBasePage() {
       <div className="max-w-2xl mx-auto space-y-8">
         <div>
           <h2 className="text-3xl font-bold tracking-tight">
-            Create Knowledge Base
+            Add Property Disclosure
           </h2>
           <p className="text-muted-foreground">
-            Create a new knowledge base to store your documents
+            Add the property disclosures to the knowledge base
           </p>
         </div>
 
@@ -71,7 +71,7 @@ export default function NewKnowledgeBasePage() {
               htmlFor="name"
               className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
             >
-              Name
+              Property Address
             </label>
             <input
               id="name"
@@ -79,7 +79,7 @@ export default function NewKnowledgeBasePage() {
               type="text"
               required
               className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-              placeholder="Enter knowledge base name"
+              placeholder="Enter property address"
             />
           </div>
 
@@ -94,7 +94,7 @@ export default function NewKnowledgeBasePage() {
               id="description"
               name="description"
               className="flex min-h-[80px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-              placeholder="Enter knowledge base description"
+              placeholder="Enter the description of the property"
             />
           </div>
 

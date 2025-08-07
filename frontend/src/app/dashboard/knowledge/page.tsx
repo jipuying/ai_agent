@@ -82,10 +82,10 @@ export default function KnowledgeBasePage() {
         <div className="flex justify-between items-center">
           <div>
             <h2 className="text-3xl font-bold tracking-tight">
-              Knowledge Bases
+              Property Disclosures
             </h2>
             <p className="text-muted-foreground">
-              Manage your knowledge bases and documents
+              Manage your property disclosures and related documents
             </p>
           </div>
           <Link
@@ -93,7 +93,7 @@ export default function KnowledgeBasePage() {
             className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90"
           >
             <Plus className="mr-2 h-4 w-4" />
-            New Knowledge Base
+            Add Property Disclosure
           </Link>
         </div>
 

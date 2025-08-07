@@ -116,7 +116,7 @@ Feed to LLM for answer generation
 
 - [x] Disclosure analysis with file upload
 
-- [ ] Frontend UI (Streamlit)
+- [x] Frontend UI (React)
 
 - [ ] Mortgage and interest calculator
 
