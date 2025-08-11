@@ -1,110 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 29628,
+  "totalResults": 1235,
   "articles": [
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Katie Cline",
-      "title": "We bought a rental property instead of a 'starter home.' It pays for itself, and we use it whenever we want.",
-      "description": "Instead of buying a primary residence in New York City, we bought a vacation home upstate to turn into a rental property. We make money and enjoy it.",
-      "url": "https://www.businessinsider.com/bought-rental-property-instead-of-primary-residence-making-money-2025-6",
-      "urlToImage": "https://i.insider.com/684074fb9d73a0031e8ddafb?width=1200&format=jpeg",
-      "publishedAt": "2025-06-23T12:02:01Z",
-      "content": "We bought our \"second home\" before we purchased a primary residence and have been happy with our decision. Katie Cline\r\n<ul><li>We couldn't afford to buy a home in NYC, so we bought a vacation home u… [+4473 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Robert Leslie,Reem Makhoul",
-      "title": "Satellite images show how fires are changing Los Angeles for good",
-      "description": "Satellite images reveal how Los Angeles has reached a point of no return after the fires of January 2025.",
-      "url": "https://www.businessinsider.com/satellite-images-show-fires-changing-los-angeles-for-good-2025-6",
-      "urlToImage": "https://i.insider.com/68512c0bf748d8c055f3d110?width=1200&format=jpeg",
-      "publishedAt": "2025-06-17T13:11:27Z",
-      "content": "How will Los Angeles recover from the devastating fires of January 2025? Business Insider spoke with environmental scientists, wildfire survivors, real estate analysts, and urban planners. Their mess… [+340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Marcus Mendes",
-      "title": "Apple shells out US$350M to acquire yet another office campus it was already leasing",
-      "description": "It’s been a good week for Apple’s real estate team. Just days after finalizing a $166.9 million deal for the Cupertino Gate office complex, the company has closed another major acquisition, pushing its South Bay real estate tab to over half a billion dollars …",
-      "url": "https://9to5mac.com/2025/06/27/apple-acquires-yet-another-office-campus-it-was-already-leasing/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/Apple-layoffs-have-been-avoided.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-27T19:49:00Z",
-      "content": "Its been a good week for Apples real estate team. Just days after finalizing a $166.9 million deal for the Cupertino Gate office complex, the company has closed another major acquisition, pushing its… [+1311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Jennifer Castenson, Contributor, \n Jennifer Castenson, Contributor\n https://www.forbes.com/sites/jennifercastenson/",
-      "title": "On The Brink Of Collapse: Housing Needs Solutions For Climate Risk",
-      "description": "Climate risk impacts to the housing market are being closely studied and better understood, but have far reaching implications.",
-      "url": "https://www.forbes.com/sites/jennifercastenson/2025/06/27/on-the-brink-of-collapse-housing-needs-solutions-for-climate-risk/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685ebf02d7a0fbe46059c543/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-27T18:49:32Z",
-      "content": "Aftermath from 2024's Hurricane Milton caused extensive damage and flooding in Central Florida. \r\nGetty Images\r\nA storm brings immediate devastationdamaged homes, power outages, and lost livesbut its… [+7333 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Jing Pan",
-      "title": "US experts warn 'rogue' devices found in Chinese solar power inverters could trigger blackouts, report says",
-      "description": "Shield your portfolio from market shocks.",
-      "url": "https://www.yahoo.com/news/us-experts-warn-rogue-devices-192500710.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/857d449ade76e825c17df5f8a123f489",
-      "publishedAt": "2025-07-06T19:25:00Z",
-      "content": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nU.S. security experts have reportedly uncovered undocumented communication devices inside Chinese-m… [+8178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Katherine Watt",
-      "title": "Mortgage Predictions for July: Will Rates Continue Falling?",
-      "description": "Fed rate cuts are still on the table this year, but stronger-than-expected job data will keep policymakers on hold this month.",
-      "url": "https://www.cnet.com/personal-finance/mortgages/mortgage-predictions-for-july-will-rates-continue-falling/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/27c21aabdaf21bc6fd1e86e53460fd518c98f558/hub/2024/07/29/5090ba2f-9272-47a1-8cdf-a914b00cd178/weekly-mortgage-predictions-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-07-03T12:51:00Z",
-      "content": "Buyers should keep an eye on the possibility of rate cuts in the next few months. \r\nTharon Green/CNET\r\nMortgage rates are holding near a two-month low, with average 30-year fixed rates having fallen … [+6215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Jonathan Burgos, Forbes Staff, \n Jonathan Burgos, Forbes Staff\n https://www.forbes.com/sites/jonathanburgos/",
-      "title": "City Developments, UOL Shares Drop After Singapore Tightens Property Curbs",
-      "description": "The government has been trying to rein in home prices in the city-state—one of the world's most expensive property markets.",
-      "url": "https://www.forbes.com/sites/jonathanburgos/2025/07/04/city-developments-uol-shares-drop-after-singapore-tightens-property-curbs/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686771d1e117b865456d21f3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-04T06:37:49Z",
-      "content": "The Marina Bay Sands hotel and casino and the Merlion statue in Singapore, on Tuesday, May 14, 2024. ... More\r\n© 2024 Bloomberg Finance LP\r\nShares of Singapores biggest developers fell on Friday afte… [+2926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fstoppers"
-      },
-      "author": "David Strauss",
-      "title": "From Lens to Listing: How AI Is Rewriting the Rules of Real Estate Visuals",
-      "description": "Real estate photography has always been about precision, speed, and aesthetic intuition. Photographers are the unsung heroes behind listings that sell fast and above the asking price. But as the housing market shifts faster than ever, the expectations for vis…",
-      "url": "https://fstoppers.com/artificial-intelligence/lens-listing-how-ai-rewriting-rules-real-estate-visuals-704062",
-      "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/06/featured-image.jpg",
-      "publishedAt": "2025-06-13T16:03:01Z",
-      "content": "Real estate photography has always been about precision, speed, and aesthetic intuition. Photographers are the unsung heroes behind listings that sell fast and above the asking price. But as the hous… [+11268 chars]"
+      "author": null,
+      "title": "Analyst Report: J.B. Hunt Transport Servs, Inc",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3099_AnalystReport_1753181477000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-22T10:51:17Z",
+      "content": "Kristina Ruggeri \r\nAnalyst: Generalist \r\nKristina began working with Argus Research in 2019. She is responsible for covering selected Consumer Discretionary and Consumer Staples Stocks and has nearly… [+968 chars]"
     },
     {
       "source": {
@@ -112,12 +21,12 @@
         "name": "Yahoo Entertainment"
       },
       "author": null,
-      "title": "I’m a Real Estate Expert: These Less Obvious Issues Are Why You Won’t Get a Full-Price Offer on Your House",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_af326aa7-de54-4693-9014-885ce1a04bae",
-      "urlToImage": null,
-      "publishedAt": "2025-06-13T13:02:29Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+      "title": "Daily – Vickers Top Insider Picks for 07/31/2025",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_44261_InsiderActivity_1753956645000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-31T10:10:45Z",
+      "content": "Sector(s) \r\nCommunication Services, Utilities, Financial Services, Energy, Technology, Real Estate, Healthcare, Consumer Defensive, Industrials, Consumer Cyclical"
     },
     {
       "source": {
@@ -125,155 +34,12 @@
         "name": "Yahoo Entertainment"
       },
       "author": null,
-      "title": "Golfer Bryson DeChambeau's Massive Real Estate Investment Has Eaten Up Most Of The $125 Million He Got Paid To Switch Tours",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_216e438f-7914-4441-a207-cfc981f0178b",
-      "urlToImage": null,
-      "publishedAt": "2025-07-12T15:15:08Z",
-      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Taskforce launched to tackle root causes of UK riots",
-      "description": "Politicians from different parties are aiming to come up with ideas for a stronger sense of community across the UK.",
-      "url": "https://www.bbc.com/news/articles/cwyegwv15vpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d6ee/live/a6c37350-51b6-11f0-bdc1-3392cff01039.jpg",
-      "publishedAt": "2025-06-25T11:57:20Z",
-      "content": "Sima Kotecha\r\nAn independent commission aimed at tackling community divisions across Britain in the aftermath of last summer's riots will hold its first meeting on Wednesday.\r\nThe cross-party body, l… [+2124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maurie Backman",
-      "title": "Florida man, 60, says he lost $1.6M in an elaborate investment scam — fronted by a woman he’d known for years",
-      "description": "Proof that even old friends can still be strangers.",
-      "url": "https://finance.yahoo.com/news/florida-man-60-says-lost-103100024.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_327/f93bf0a5be7e0e21f0691402f2a387b3",
-      "publishedAt": "2025-07-07T10:31:00Z",
-      "content": "Real estate scams are all too common and older people tend to be easy targets. When Jose Luis Fernandez of Sunny Isles Beach, Florida invested money with Ybis Del Carmen of Realty Golden Group, he wa… [+4952 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Sarah Jackson,Alice Tecotzky",
-      "title": "Jeff Bezos and Lauren Sánchez are one of the richest married couples. Here's how the ultrawealthy do prenups.",
-      "description": "Amazon founder Jeff Bezos and Lauren Sánchez got married in Venice on Friday, and they likely have a complex prenup.",
-      "url": "https://www.businessinsider.com/ultrawealthy-prenups-jeff-bezos-lauren-sanchez-wedding-2025-6",
-      "urlToImage": "https://i.insider.com/685ea2e83d5881a51c1c3808?width=1200&format=jpeg",
-      "publishedAt": "2025-06-28T08:33:01Z",
-      "content": "Jeff Bezos and Lauren Sánchez will be getting married in Venice.Michael Tran / AFP via Getty Images\r\n<ul><li>With Jeff Bezos and Lauren Sánchez now married, they're likely to have a complex prenup.</… [+5576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calculatedriskblog.com"
-      },
-      "author": "Calculated Risk",
-      "title": "AIA: \"Architecture firm billings continued to decline in May\"",
-      "description": "Note: This index is a leading indicator primarily for new Commercial Real Estate (CRE) investment.   From the AIA: ABI May 2025: Despite per...",
-      "url": "https://www.calculatedriskblog.com/2025/06/aia-architecture-firm-billings.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsVmHEDe94dsKUIRFGDVV4hsSRgYcLPHQpy2FrWjl9Bz8u0KGa0VW3HsGMR0cyQ8p7UmT_b8U3YX6XZmQg1OlRpghu6VN7YT1U-BhMSJDYx2V9Z7QdTQjx2-1OK88sBJ_DYGhfhBc0sNVc2UU-ra4ccoFZjHSasyupVp3FtKzssY9Gxiu8W77c/w1200-h630-p-k-no-nu/ABIMay2025.PNG",
-      "publishedAt": "2025-06-18T19:26:00Z",
-      "content": "Note: This index is a leading indicator primarily for new Commercial Real Estate (CRE) investment.\n\nFrom the AIA: ABI May 2025: Despite persistent softness, fewer firms report declining billingsThe m… [+2422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calculatedriskblog.com"
-      },
-      "author": "Calculated Risk",
-      "title": "Newsletter: New Home Sales Decrease to 623,000 Annual Rate in May",
-      "description": "Today, in the Calculated Risk Real Estate Newsletter: New Home Sales Decrease to 623,000 Annual Rate in May  Brief excerpt: The Census Burea...",
-      "url": "https://www.calculatedriskblog.com/2025/06/newsletter-new-home-sales-decrease-to.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4JBY4_UfGtx5Z1qs6wAb0DoI6bN257pML_8DagSmTg_lLpLesykeX1KC4yIBt7pyQ7xNrTTaC3BBjwDCaUMXOe26HQAgPTUDS-xY5AZafkWg7WIvajCutxqvgbbT931Z-tsJpatLD-kvQkllLrLufz74y-EDTw8bCvF3HT5HZ_4gXt87dmKT/w1200-h630-p-k-no-nu/NHS20242025May.PNG",
-      "publishedAt": "2025-06-25T14:51:00Z",
-      "content": "Today, in the Calculated Risk Real Estate Newsletter: New Home Sales Decrease to 623,000 Annual Rate in May\nBrief excerpt: The Census Bureau reported New Home Sales in May were at a seasonally adjust… [+362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calculatedriskblog.com"
-      },
-      "author": "Calculated Risk",
-      "title": "Freddie Mac House Price Index Declined in May; Up 2.2% Year-over-year",
-      "description": "Today, in the Calculated Risk Real Estate Newsletter: Freddie Mac House Price Index Declined in May; Up 2.2% Year-over-year  A brief excerpt...",
-      "url": "https://www.calculatedriskblog.com/2025/06/freddie-mac-house-price-index-declined.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinl8yx7l8SnK20AhdkRCOb24m1jLTpxf6SA0qDzzbrUwrbPVxHngLu5geoylD36PptUbrx9w0KRBEbxx1LW8p4t595Z-3RSfua88YxH56mCN89XJaxD2L17W3dlkiDs3Ie2-2wOtCrtzBlrIELmG3OpO0F5giNUhFXAsCuMAwIOy6ST0vfTOdp/w1200-h630-p-k-no-nu/FreddieCBSAMay2025.PNG",
-      "publishedAt": "2025-06-30T17:16:00Z",
-      "content": "Today, in the Calculated Risk Real Estate Newsletter: Freddie Mac House Price Index Declined in May; Up 2.2% Year-over-year\nA brief excerpt: Freddie Mac reported that its “National” Home Price Index … [+946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calculatedriskblog.com"
-      },
-      "author": "Calculated Risk",
-      "title": "Newsletter: Case-Shiller: National House Price Index Up 2.7% year-over-year in April",
-      "description": "Today, in the Calculated Risk Real Estate Newsletter: Case-Shiller: National House Price Index Up 2.7% year-over-year in April   Excerpt: S&...",
-      "url": "https://www.calculatedriskblog.com/2025/06/newsletter-case-shiller-national-house.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4a3ZtW9CzxCdaprvT-7ghvTD9L2PBzdCjs4_akYxleLhu2aAkXIiG2KQHo67sfFPMVS6zBcNN09wdk-jNcAg_cm5vPjdS1LodBLl2syQqfu7ojJVzjMPfb4dkhqNiUKDR-utfxHm2v8pZ2uY0FQtjRrPjZ9zikHOsmQAI0_IAWqnYiqdEjMDd/w1200-h630-p-k-no-nu/CSMoMApr2025.PNG",
-      "publishedAt": "2025-06-24T13:39:00Z",
-      "content": "Today, in the Calculated Risk Real Estate Newsletter: Case-Shiller: National House Price Index Up 2.7% year-over-year in April\n\nExcerpt: S&P/Case-Shiller released the monthly Home Price Indices for A… [+679 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "William Edwards",
-      "title": "The 10 best places to live in the US as a renter are all in the South",
-      "description": "The top US markets for renters are clustered in the South, based on metric including affordability and strength of the local economy.",
-      "url": "https://www.businessinsider.com/best-places-cities-states-for-renters-orlando-raleigh-texas-florida-2025-7",
-      "urlToImage": "https://i.insider.com/68657ff585e81483682d4102?width=1200&format=jpeg",
-      "publishedAt": "2025-07-03T09:30:02Z",
-      "content": "Orlando, FloridaJillianCain/Getty Images\r\n<ul><li>Southern cities dominate RentCafe's top 10 list for renters in the US.</li><li>RentCafe analyzed housing affordability, local economies, and quality … [+3417 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Moneywise",
-      "title": "Here are the 6 levels of wealth for retirement-age Americans — are you at the top or bottom of the pyramida",
-      "description": "Which category do you belong to and what does it mean for your golden years?",
-      "url": "https://finance.yahoo.com/news/6-levels-wealth-retirement-age-211200878.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/4fa67dd1cfe1586be4492b233d1135c0",
-      "publishedAt": "2025-07-04T21:12:00Z",
-      "content": "lucigerma/Envato\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nIf youre planning your own retirement, you probably have a retirement savings goa… [+7651 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Isaac Rouse",
-      "title": "Get ready to trash your living room, A Minecraft Movie streams on Max next week",
-      "description": "“Steve’s Lava Chicken” fans, rejoice: A Minecraft Movie will make its global streaming debut on Max starting next week. A Minecraft Movie follows four everyday misfits — newly orphaned siblings Henry (Sebastian Hansen) and Natalie (Emma Myers), down-on-his-lu…",
-      "url": "https://www.polygon.com/entertainment/606847/a-minecraft-movie-streaming-debut-hbo-max-june",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/MCDMIMO_WB046.jpg?quality=90&strip=all&crop=0.12885723974229%2C0%2C99.742285520515%2C100&w=1200",
-      "publishedAt": "2025-06-13T17:14:59Z",
-      "content": "“Steve’s Lava Chicken” fans, rejoice: A Minecraft Movie will make its global streaming debut on Max starting next week.\n\nA Minecraft Movie follows four everyday misfits — newly orphaned siblings Henr… [+2051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Marcus Mendes",
-      "title": "Apple just spent $166M to buy a Cupertino campus it was already leasing",
-      "description": "Apple is obviously rooted in Cupertino, and these roots just got a little deeper. City records show that the company has purchased Cupertino Gateway, a three-building complex located at 10200 North Tantau Avenue, for $166.9 million in cash. Here are the detai…",
-      "url": "https://9to5mac.com/2025/06/25/apple-buys-cupertino-gateway-for-166-million/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-25T22:05:37Z",
-      "content": "Apple is obviously rooted in Cupertino, and these roots just got a little deeper. City records show that the company has purchased Cupertino Gateway, a three-building complex located at 10200 North T… [+1277 chars]"
+      "title": "Analyst Report: Johnson Controls Intl pl",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3473_AnalystReport_1754047855000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-08-01T11:30:55Z",
+      "content": "John Eade \r\nPresident &amp; Director of Portfolio Strategies \r\nJohn is chairman and CEO of Argus Research Group and president of Argus Research Company. Over the years, his responsibilities at Argus … [+941 chars]"
     },
     {
       "source": {
@@ -281,337 +47,12 @@
         "name": "Yahoo Entertainment"
       },
       "author": null,
-      "title": "Australian police officer shot dead at rural property",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5ff67dd3-b7b3-4068-a51c-a32ccd755a1a",
-      "urlToImage": null,
-      "publishedAt": "2025-06-16T06:17:58Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "author": "news@appleinsider.com (Amber Neely)",
-      "title": "Apple just bought another Bay Area campus for $350 million",
-      "description": "Apple has added a $350 million campus to its growing Bay Area portfolio, spending over half a billion dollars on local real estate this week.Image Credit: Jay Paul CompanyApple has been on a Bay Area shopping spree this week. Earlier we learned that it bought…",
-      "url": "https://appleinsider.com/articles/25/06/27/apple-just-bought-another-bay-area-campus-for-350-million",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/64172-133616-jco-xl.jpg",
-      "publishedAt": "2025-06-27T13:50:51Z",
-      "content": "Apple has added a $350 million campus to its growing Bay Area portfolio, spending over half a billion dollars on local real estate this week.\r\nApple has been on a Bay Area shopping spree this week. E… [+1125 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Trump calls for US central bank head to quit immediately",
-      "description": "The president has repeatedly criticised Jerome Powell for not cutting rates but has sent mixed signals about removing him from the role.",
-      "url": "https://www.bbc.com/news/articles/crmv4ldv923o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7e27/live/191d5f50-579e-11f0-928e-73d4c154b474.jpg",
-      "publishedAt": "2025-07-03T01:09:56Z",
-      "content": "US President Donald Trump has called for the chair of the Federal Reserve to quit \"immediately\", in an escalation of his attacks on Jerome Powell.\r\n\"'Too Late' should resign immediately!!!\", Trump sa… [+2466 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Luc Olinga",
-      "title": "Good News! Jeff Bezos Is Married",
-      "description": "The Amazon founder tied the knot while locals protested, critics raged, and the canals nearly filled with inflatable crocodiles.",
-      "url": "https://gizmodo.com/good-news-jeff-bezos-is-married-2000621773",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/jeff-bezos-washington-post-june-25-2025-1200x675.jpg",
-      "publishedAt": "2025-06-28T13:52:22Z",
-      "content": "Jeff Bezos is officially off the market. The Amazon founder married his fiancée, former TV anchor Lauren Sánchez, in a lavish ceremony on Friday, June 27, on the private island of San Giorgio Maggior… [+2895 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Charlotte Duck",
-      "title": "What are branded residences and who’s buying them?",
-      "description": "Brands such as Ritz-Carlton, Ferrari and Armani have entered the luxury property space.",
-      "url": "https://uk.finance.yahoo.com/news/branded-residences-property-explained-050050390.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KhXXuxpm9B0XPeK.IrrnPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/6c8a0cb0-5b3b-11f0-b7f2-07ce555e59ae",
-      "publishedAt": "2025-07-09T05:00:50Z",
-      "content": "217 W' branded residences will be available in Manchester from 2027. For sale through Savills. Photo: Savills·Savills\r\nBranded residences, in their modern capacity, have been around since The Four Se… [+7135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Rebecca Hersher",
-      "title": "Where to find information about flood risk to your home",
-      "description": "Many people in the United States receive little or no information about flood risk when they move into a new home or apartment. Here's how you can learn about your flood risk.",
-      "url": "https://www.npr.org/2025/07/12/nx-s1-5464735/flood-risk-information-sources-texas",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2Fce%2F0c33b3db40c2a046ddaf9c2ed6fa%2Fap25191768903789.jpg",
-      "publishedAt": "2025-07-12T09:00:00Z",
-      "content": "In the wake of deadly flash floods in Central Texas, many people are wondering what they can do to protect themselves from flooding where they live.\r\nIt's a good question, and one that is relevant to… [+6446 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Luc Olinga",
-      "title": "The SEC Is Crashing the Digital Stocks Party",
-      "description": "Commissioner Hester Peirce's stark warning: blockchain doesn't magically erase old investment rules.",
-      "url": "https://gizmodo.com/the-sec-is-crashing-the-digital-stocks-party-2000627381",
-      "urlToImage": "https://gizmodo.com/app/uploads/2022/04/db035252532bbc24f6d808a7fd7b6177.jpg",
-      "publishedAt": "2025-07-10T13:20:28Z",
-      "content": "For years, the promise of blockchain technology has captivated the financial world, hinting at a future where traditional assets are transformed into nimble, digital “tokens.” This vision, as the U.S… [+3900 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "MEGAN JANETSKY and MARÍA VERZA",
-      "title": "Mexico's president calls march against mass tourism 'xenophobic.' Critics blame government failures",
-      "description": "A fierce protest in Mexico City railing against gentrification and mass tourism was fueled by government failures and active promotion to attract digital...",
-      "url": "https://www.yahoo.com/news/mexicos-president-calls-march-against-045141418.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jzH4Xq2QBtCbnRMrc3AFqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7a96144a9a0a88fd9a7a81c8c3f23bfd",
-      "publishedAt": "2025-07-08T04:51:41Z",
-      "content": "MEXICO CITY (AP) A fierce protest in Mexico City railing against gentrification and mass tourism was fueled by government failures and active promotion to attract digital nomads, according to experts… [+6213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Aarthi Swaminathan",
-      "title": "Why anyone selling a home should be following the ‘Zillow ban’ lawsuit closely right now",
-      "description": "The real-estate industry is battling it out over control of for-sale listings, and home sellers in particular could get hurt.",
-      "url": "https://www.marketwatch.com/story/why-anyone-selling-a-home-should-be-following-the-zillow-ban-lawsuit-closely-right-now-7a464dde",
-      "urlToImage": "https://images.mktw.net/im-74228582/social",
-      "publishedAt": "2025-07-02T18:12:00Z",
-      "content": "The real-estate industry is battling it out over control of for-sale listings, and home sellers in particular could get hurt.\r\nTwo major lawsuits filed over the last two weeks against the real-estate… [+150 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Noah Sheidlower",
-      "title": "I'm 84 and drive for Uber to pay my bills. I've made some unfortunate investments, but I'm not worried about the future.",
-      "description": "Sharon Albrecht, 84, works as an Uber driver and an independent contractor for a home healthcare agency. The income supplements her Social Security.",
-      "url": "https://www.businessinsider.com/retirement-uber-driving-social-security-aging-debt-working-at-80-2025-7",
-      "urlToImage": "https://i.insider.com/686d567485e81483682d9361?width=587&format=jpeg",
-      "publishedAt": "2025-07-09T09:05:01Z",
-      "content": "Sharon Albrecht still drives for Uber at 84.Sharon Albrecht\r\n<ul><li>Sharon Albrecht, 84, works as an Uber driver and at a home healthcare company.</li><li>Albrecht said the income is critical to mai… [+5731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": "TMZ Staff",
-      "title": "Nick And Vanessa Lachey List Encino Home For Millions",
-      "description": "Nick and Vanessa Lachey are parting ways with their Southern California home -- listing the gated property less than a year after purchasing it … TMZ has learned. Real estate sources tell us ... the couple put the modern Encino estate on the…",
-      "url": "https://www.tmz.com/2025/06/23/nick-and-vanessa-lachey-selling-encino-home/",
-      "urlToImage": "https://imagez.tmz.com/image/cd/16by9/2025/06/24/cdc838a1999a47839cb2f6304de99cbc_xl.jpg",
-      "publishedAt": "2025-06-24T01:44:46Z",
-      "content": "Nick and Vanessa Lachey are parting ways with their Southern California home -- listing the gated property less than a year after purchasing it TMZ has learned.\r\nReal estate sources tell us ... the c… [+890 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nathan Edwards",
-      "title": "How to build the best keyboard in the world",
-      "description": "The term \"endgame,\" among keyboard enthusiasts, is sort of a running gag. Endgame is when you finally dial in your perfect layout, case, features, switches, and keycaps, so you can stop noodling around with parts and get on with whatever it is you actually us…",
-      "url": "https://www.theverge.com/tech/686441/norbauer-seneca-keyboard-creator",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257654_Norbauer_Seneca_L1002209.jpg?quality=90&strip=all&crop=0%2C10.665762696239%2C100%2C78.668474607522&w=1200",
-      "publishedAt": "2025-06-15T03:47:40Z",
-      "content": "The term endgame, among keyboard enthusiasts, is sort of a running gag. Endgame is when you finally dial in your perfect layout, case, features, switches, and keycaps, so you can stop noodling around… [+20885 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Parade"
-      },
-      "author": "Whitney Danhauer",
-      "title": "Netflix Star Dies at 40 After Tragic Hit-and-Run in the Hamptons",
-      "description": "A Netflix star was killed in a Hamptons hit-and-run at age 40. Authorities are still searching for the driver who fled the scene.",
-      "url": "https://parade.com/news/netflix-star-dies-at-40-after-tragic-hit-and-run-in-the-hamptons",
-      "urlToImage": "https://media.zenfs.com/en/parade_250/b2183cf8351f06f7baf06bc4403cab12",
-      "publishedAt": "2025-06-20T14:49:00Z",
-      "content": "Netflix Star Dies at 40 After Tragic Hit-and-Run in the Hamptons originally appeared on Parade.\r\nNetflix star Sara Burack has died at the age of 40 after a hit-and-run in the Hamptons, and the police… [+2185 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "Galaxy Z Fold 7 hands-on: Samsung finally made the foldables we’ve been asking for",
-      "description": "Samsung just announced its seventh-generation folding phones, and it finally retired the long and narrow Z Fold design that it had stuck with for far too long. The Z Flip is also getting an overdue upgrade to a full-size cover screen rather than the file fold…",
-      "url": "https://www.theverge.com/phones/701076/samsung-galaxy-z-fold-flip-7-fe-hands-on",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257844_Samsung_Unpacked_July_2025_AJohnson_0017.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "publishedAt": "2025-07-09T13:10:56Z",
-      "content": "Except for the price. We didnt ask for that.\r\nExcept for the price. We didnt ask for that.\r\nSamsung just announced its seventh-generation folding phones, and it finally retired the long and narrow Z … [+3905 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WREG NewsChannel 3"
-      },
-      "author": "Deja Davis",
-      "title": "2 men accused of stealing 9 guns from East Memphis home",
-      "description": "MEMPHIS, Tenn. — Two men are now in jail after police say they broke into an East Memphis home, stole nine guns and other property totaling more than $11,000...",
-      "url": "https://wreg.com/news/local/2-men-accused-of-stealing-9-guns-from-east-memphis-home/",
-      "urlToImage": "https://media.zenfs.com/en/wreg_articles_784/cbe3beb3acdc6726f7b6a2049525ac87",
-      "publishedAt": "2025-06-30T11:01:00Z",
-      "content": "MEMPHIS, Tenn. Two men are now in jail after police say they broke into an East Memphis home, stole nine guns and other property totaling more than $11,000.\r\nDavid Mathis, 35, and Michael Harrison, 3… [+1098 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investopedia"
-      },
-      "author": "Terry Lane",
-      "title": "For The Housing Market This Year, It All Comes Down to Mortgage Rates",
-      "description": "Economists were hoping for a 2025 turnaround in the housing market, and home buyers could still get some relief if mortgage rates turn lower later this year.",
-      "url": "https://www.investopedia.com/housing-market-rebound-hasn-t-come-yet-but-hopes-remain-for-lower-rates-in-2025-11762422",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XNjrAOt51F0i1dxA4PkTPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://media.zenfs.com/en/investopedia_245/3cdca554f9224464b4002d391ccb52ec",
-      "publishedAt": "2025-07-08T10:00:00Z",
-      "content": "Zach Hackman / Investopedia\r\n The housing market is likely to remain frozen for the remainder of 2025, experts said.\r\n<ul><li>Economists don't expect much improvement in housing market conditions in … [+3261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Luc Olinga",
-      "title": "Trump and His Online Alpha Males Have a Meltdown Over NYC’s Newest Socialist Star",
-      "description": "Zohran Mamdani is facing a flood of Islamophobic and anti-immigrant attacks from Trump, influencers, and even some Democrats.",
-      "url": "https://gizmodo.com/trump-and-his-online-alpha-males-have-a-meltdown-over-nycs-newest-socialist-star-2000621801",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/donald-trump-april-14-2025-GettyImages-2210244280-copy-1200x675.jpg",
-      "publishedAt": "2025-06-28T20:50:57Z",
-      "content": "Zohran Mamdani has managed to do something rare in today’s fractured political climate: he has united a faction of the Democratic establishment with an army of online alpha males in shared outrage. S… [+7532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Faisal Islam: We are heading for significant tax rises",
-      "description": "Repeatedly borrowing more is not a long-term solution to rising day-to-day spending pressures.",
-      "url": "https://www.bbc.com/news/articles/c9dgn647nplo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66fd/live/2b2d55d0-5e63-11f0-8515-6bc8a9e55cf1.jpg",
-      "publishedAt": "2025-07-12T00:05:51Z",
-      "content": "Two very different reports have reignited UK economic gloom over the past four days. \r\nFriday's economic figures showed a further monthly dip in UK growth, or GDP, in May. Earlier this week the offic… [+5929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Maya Posch",
-      "title": "Making Optical Glass from Ceran Stovetops",
-      "description": "Ceran is a name brand for a type of glass ceramic that has a very low coefficient of thermal expansion (CTE). This is useful for stovetops, but it is also a highly desirable property for optical gl…",
-      "url": "https://hackaday.com/2025/06/28/making-optical-glass-from-ceran-stovetops/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/06/newtonian_telescope_huygens_optics_ceran_stovetop.jpg",
-      "publishedAt": "2025-06-28T20:00:00Z",
-      "content": "The Ceran discs, freshly cut from the old stovetop and awaiting polishing. (Credit: Huygens Optics)\r\nCeran is a name brand for a type of glass ceramic that has a very low coefficient of thermal expan… [+1549 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "OpenAI awarded $200 million US defense contract",
-      "description": "OpenAI is officially on the Pentagon’s payroll. The Department of Defence announced a $200 million contract with OpenAI to provide the US government with new artificial intelligence tools, including those used for proactive cyber defense. In a post outlining …",
-      "url": "https://www.theverge.com/news/688041/openai-us-defense-department-200-million-contract",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-17T09:35:46Z",
-      "content": "OpenAI will provide the DoD with AI tools for admin, data collection, and proactive cyber defense.\r\nOpenAI is officially on the Pentagons payroll. The Department of Defence announced a $200 million c… [+2393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cracked.com"
-      },
-      "author": "Tara Ariano",
-      "title": "5 Times the New York Real Estate Market Drove TV Comedy Characters to Extremes",
-      "description": "Ranked by just how extreme the extremity actually got",
-      "url": "https://www.cracked.com/article_47053_5-times-the-new-york-real-estate-market-drove-tv-comedy-characters-to-extremes.html",
-      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/2/7/3/1319273.jpg",
-      "publishedAt": "2025-06-19T16:30:00Z",
-      "content": "Warning: Contains spoilers for the plot of the latest episode of Poker Face, A New Lease on Death.\r\nWhether or not youve ever lived in New York City, you probably know one thing about it: The rent, f… [+8496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cape Cod Times"
-      },
-      "author": "Susan Vaughn, Cape Cod Times",
-      "title": "Their homes will be taken for a new Sagamore Bridge. They keep hearing the word 'process'",
-      "description": "Four homeowners in the Sagamore neighborhood, whose houses are being taken by the state to make way for the new bridge, spoke to the Times.",
-      "url": "https://www.capecodtimes.com/story/news/2025/06/18/sagamore-bridge-replacement-project-massdot-relocation-cape-cod-canal/84112604007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/347Ok2R7WP6b9c5JQe5MpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODc-/https://media.zenfs.com/en/cape-cod-times/dafc7ba122120b080e7aa3bda01a32a2",
-      "publishedAt": "2025-06-18T09:03:39Z",
-      "content": "What does it feel like to know your home is going to disappear?\r\nFour homeowners in a small Sagamore neighborhood off Sandwich Road described the physical, mental and emotional effects on their lives… [+9629 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sydney Lake",
-      "title": "Condo prices are falling. Gen Z and millennials: This could be your shot to break into the housing market",
-      "description": "Condo prices dropped 2% year over year, according to Redfin.",
-      "url": "https://finance.yahoo.com/news/condo-prices-falling-gen-z-175517926.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ODmb5fJ_KOBtSpaOWoMDzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/fortune_175/1e90152e98945e601b4c508a1b11fcb1",
-      "publishedAt": "2025-07-02T17:55:17Z",
-      "content": "<ul><li>After years of rising mortgage rates and soaring home prices, many younger buyers have been priced out of the market. But falling condo prices, driven by rising HOA and insurance costs, may o… [+3874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apartment Therapy"
-      },
-      "author": "Rose Morrison",
-      "title": "My Free House Touring Trick Only Takes a Few Minutes, but Could Save You Thousands",
-      "description": "It could help in the future.\nREAD MORE...",
-      "url": "https://www.apartmenttherapy.com/doorway-pause-trick-house-tours-37494674",
-      "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/stock%2FGettyImages-2170030388",
-      "publishedAt": "2025-07-08T13:15:00Z",
-      "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nI was on apartment viewing number three, and fr… [+6632 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calculatedriskblog.com"
-      },
-      "author": "Calculated Risk",
-      "title": "Housing Starts Decreased to 1.256 million Annual Rate in May",
-      "description": "From the Census Bureau: Permits, Starts and Completions   Housing Starts:  Privately-owned housing starts in May were at a seasonally adjust...",
-      "url": "https://www.calculatedriskblog.com/2025/06/housing-starts-decreased-to-1256.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigMnm8yo2gm6ZtHI3XDH2EDiGi7JiW9FtZqJXqI4MRTuXYLxL8su9Mb99oZodERbKbIgWaEv8aMc_3F2yXjqHt1wDUEIrFB57nTfMsOlJ7cuj-OU-6__KgznRdmSrYnVZoSY-jP9IiFQOVOfa8zA9PNept-mCiAh04preKvhzCW6yipxF3rjay/w1200-h630-p-k-no-nu/StartsShortMay2025.PNG",
-      "publishedAt": "2025-06-18T12:32:00Z",
-      "content": "From the Census Bureau: Permits, Starts and Completions\n\nHousing Starts:\nPrivately-owned housing starts in May were at a seasonally adjusted annual rate of 1,256,000. This is 9.8 percent below the re… [+1426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Al Fayed-owned Mayfair penthouse has 'leaky roofs and noisy lifts'",
-      "description": "An exclusive Park Lane address owned by the Fayed family is at the centre of an eight-year dispute.",
-      "url": "https://www.bbc.com/news/articles/c0m8pew4331o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b467/live/820a5f50-5cb1-11f0-a40e-a1af2950b220.png",
-      "publishedAt": "2025-07-12T05:19:04Z",
-      "content": "The owner of a multi-million pound penthouse on Park Lane, central London, has been in an eight-year legal battle with companies owned by the late Mohamed Al Fayed and his family, the BBC has found.\r… [+6165 chars]"
+      "title": "Analyst Report: KKR & Co. Inc.",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3590_AnalystReport_1753984388000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-31T17:53:08Z",
+      "content": "Stephen Biggar \r\nDirector of Financial Institutions Research \r\nStephen is responsible for coverage of large global banks, regional banks and domestic credit card companies. He has covered financial s… [+347 chars]"
     },
     {
       "source": {
@@ -619,25 +60,12 @@
         "name": "Yahoo Entertainment"
       },
       "author": null,
-      "title": "Jackson County business owners continue to push back on soaring property assessments",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_55eea038-a355-413c-bba6-44889b96a7fe",
-      "urlToImage": null,
-      "publishedAt": "2025-07-10T03:09:10Z",
-      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Favour Adegoke",
-      "title": "Hotel Guests 'Booted' After Jeff Bezos And Lauren Sanchez Reserved Entire Property Ahead Of Wedding",
-      "description": "Jeff Bezos and Lauren Sánchez are ensuring they and their wedding guests have an uninterrupted stay in Venice.",
-      "url": "https://www.yahoo.com/entertainment/articles/hotel-guests-booted-jeff-bezos-191553283.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QsbH0A7eyduOLGBjb8sxLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTU7Y2Y9d2VicA--/https://media.zenfs.com/en/theblast_73/a35b0b625ed0befab49791e33b23f75e",
-      "publishedAt": "2025-06-25T19:15:53Z",
-      "content": "Jeff Bezos and Lauren Sanchez are ensuring they and their wedding guests have an uninterrupted stay in Venice, even if it means others have to adjust their plans.\r\nAccording to reports, the couple re… [+4399 chars]"
+      "title": "Analyst Report: Generac Holdings Inc",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_5860_AnalystReport_1753984388000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-31T17:53:08Z",
+      "content": "John Eade \r\nPresident &amp; Director of Portfolio Strategies \r\nJohn is chairman and CEO of Argus Research Group and president of Argus Research Company. Over the years, his responsibilities at Argus … [+941 chars]"
     },
     {
       "source": {
@@ -645,12 +73,12 @@
         "name": "Yahoo Entertainment"
       },
       "author": null,
-      "title": "Resort, casino along Nevada-California border shifting 24/7 operations to different property",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd6d1abc-ce4d-4430-8d4b-22f0c35b7179",
-      "urlToImage": null,
-      "publishedAt": "2025-07-02T02:05:46Z",
-      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+      "title": "Daily – Vickers Top Buyers & Sellers for 07/30/2025",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_44247_TopBottomInsiderActivity_1753871870000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-30T10:37:50Z",
+      "content": "Sector(s) \r\nFinancial Services, Real Estate, Healthcare, Industrials, Consumer Cyclical"
     },
     {
       "source": {
@@ -658,311 +86,38 @@
         "name": "Yahoo Entertainment"
       },
       "author": null,
-      "title": "An investor who built a multimillion-dollar real estate portfolio by buying 'pigs' explains how he finds overlooked properties",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e36fa6de-cdc1-4bf3-becc-97b96adce574",
-      "urlToImage": null,
-      "publishedAt": "2025-06-22T17:00:01Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "wsj.com",
-      "title": "New Real-Estate Math: Half a Million More Sellers Than Buyers",
-      "description": "",
-      "url": "https://biztoc.com/x/07b2b4660f791263",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-06-15T13:47:01Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon investing billions in Australia's data centers? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Is… [+756 chars]"
+      "title": "Analyst Report: RTX Corp.",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3487_AnalystReport_1753721667000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-28T16:54:27Z",
+      "content": "Kristina Ruggeri \r\nAnalyst: Generalist \r\nKristina began working with Argus Research in 2019. She is responsible for covering selected Consumer Discretionary and Consumer Staples Stocks and has nearly… [+968 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Hal Bundrick, CFP®",
-      "title": "Mortgage and refinance interest rates today, July 4, 2025: Rates drop 28 basis points since last year",
-      "description": "These are today's mortgage and refinance interest rates. Fixed 30-year and 15-year rates have fallen for five straight weeks. Lock in your rate today.",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-july-4-2025-100043593.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
-      "publishedAt": "2025-07-04T10:00:43Z",
-      "content": "Mortgage interest rates are down again this week, marking five consecutive weeks of decreases. According to Freddie Mac, the national average 30-year fixed mortgage rate has fallen by 10 basis points… [+5450 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Noah Sheidlower",
-      "title": "I moved from Atlanta to Panama after retiring with my 97-year-old mother with dementia. Prices aren't too much cheaper, but we love the culture and calm.",
-      "description": "Debbie Boyd moved from Atlanta to Panama with her 97-year-old mother, who has dementia, for lower costs and healthcare options.",
-      "url": "https://www.businessinsider.com/moving-to-panama-retirement-aging-cost-of-living-weather-expat-2025-7",
-      "urlToImage": "https://i.insider.com/6866c9b9f748d8c055f4f6d5?width=1200&format=jpeg",
-      "publishedAt": "2025-07-07T08:21:01Z",
-      "content": "Debbie Boyd (left) with her mother Doris Britto (right) moved from Atlanta to Panama this year.Debbie Boyd\r\n<ul><li>Debbie Boyd moved to Panama with her 97-year-old mother for lower costs and healthc… [+7742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "New police appeal on 10th anniversary of 'Goldfinger' murder",
-      "description": "Police say loyalties in the criminal fraternity have changed since the notorious conman's murder.",
-      "url": "https://www.bbc.com/news/articles/c8e4k45yw3eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c989/live/b83e9330-4e0f-11f0-a466-d54f65b60deb.jpg",
-      "publishedAt": "2025-06-23T05:27:39Z",
-      "content": "Peter Walker\r\nJohn Palmer was convicted at the Old Bailey in 2001 of a timeshare fraud that had about 16,000 victims\r\nDetectives have renewed their appeal for information 10 years after the murder of… [+3617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Grandmother faces losing home over climate protest",
-      "description": "Jane McCarthy believes the council's pension fund and banking are \"investments in climate destruction\".",
-      "url": "https://www.bbc.com/news/articles/cx24r79zxnno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a715/live/e9805830-58db-11f0-a9ff-45e90d94847e.jpg",
-      "publishedAt": "2025-07-07T05:16:19Z",
-      "content": "Eric JohnsonBBC News, Buckinghamshire\r\nJane McCarthy disagrees with pension funds investing in fossil fuels\r\nA 74-year-old woman could lose her home after refusing to pay council tax for more than th… [+2764 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Talia Lakritz,Gabbi Shaw",
-      "title": "11 historic mansions from HBO's 'The Gilded Age' that you can visit in real life",
-      "description": "HBO's \"The Gilded Age\" films scenes in real historic mansions from the time period.",
-      "url": "https://www.businessinsider.com/gilded-age-show-mansions-tour-history-visit-2025-6",
-      "urlToImage": "https://i.insider.com/6851c9f93d5881a51c1b99f8?width=1200&format=jpeg",
-      "publishedAt": "2025-06-22T13:04:01Z",
-      "content": "The Breakers.Alexander Nesbitt/The Preservation Society of Newport County\r\n<ul><li>HBO's \"The Gilded Age\" films scenes in real historic mansions from the time period.</li><li>Several mansions once ow… [+11085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Brandon Morgan",
-      "title": "The Thieves Den Player Home In Oblivion Remastered Is Perfect For Nefarious Playstyles",
-      "description": "Who doesn’t love free player housing? If you’re a thief, any of the city’s homes will suffice as a temporary base of operations. But none of them come with a Fence (albeit for a small sum of 1,000 Gold). You know what does? The Thieves Den in Oblivion Remaste…",
-      "url": "https://kotaku.com/oblivion-remastered-housing-thieves-den-fence-archer-1851785015",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/faa2ddb4c749d39cee88b4593069f1c0.jpg",
-      "publishedAt": "2025-06-24T18:23:14Z",
-      "content": "Who doesnt love free player housing? If youre a thief, any of the citys homes will suffice as a temporary base of operations. But none of them come with a Fence (albeit for a small sum of 1,000 Gold)… [+3389 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "kelkins@businessinsider.com (Kathleen Elkins)",
-      "title": "4 real estate investors shared with us an overlooked advantage to buying property",
-      "description": "Among the many ways to build wealth through real estate, leveraged appreciation is \"the biggest one,\" said one financially independent investor.",
-      "url": "https://www.businessinsider.com/top-benefit-of-investing-in-real-estate-leveraged-appreciation-2025-6",
-      "urlToImage": "https://i.insider.com/6862f60d85e81483682d147d?width=1200&format=jpeg",
-      "publishedAt": "2025-07-01T09:15:01Z",
-      "content": "There are a variety of ways to put your money to work and how you choose to invest depends on factors like your risk tolerance and goals.\r\nBuying real estate comes with its unique challenges and ofte… [+5796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Brittany Vincent",
-      "title": "Anker 5-in-1 USB-C Hub Just Dropped to Almost Free, Limited Stock Available on Amazon",
-      "description": "No more worrying about having nowhere to plug in all your extra peripherals.",
-      "url": "https://gizmodo.com/anker-5-in-1-usb-c-hub-just-dropped-to-almost-free-limited-stock-available-on-amazon-2000615284",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/ankerusbhub-1200x675.jpg",
-      "publishedAt": "2025-06-13T14:40:03Z",
-      "content": "If youve ever found yourself flipping your laptop over and over looking for a USB port that just doesnt exist anymore, youre not alone. Laptops keep getting thinner, and ports keep disappearing. But … [+2136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Lucas Ropek",
-      "title": "Even MAGA Is Pissed Off About Tech Bros’ Dream of Bulldozing Federal Lands to Create New Cities",
-      "description": "The \"Freedom City\" movement has reached a dead end—for now.",
-      "url": "https://gizmodo.com/even-maga-is-pissed-off-about-tech-bros-dream-of-bulldozing-federal-lands-to-create-new-cities-2000622102",
-      "urlToImage": "https://gizmodo.com/app/uploads/2022/08/179da8fc9d15ced5e53112bc1828892d.jpg",
-      "publishedAt": "2025-06-30T21:00:17Z",
-      "content": "In recent years, a cadre of tech billionaires have become obsessed with a deeply unconventional idea: the creation of new, privately owned cities. Dubbed the “Freedom Cities” movement, backers say th… [+4964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calculatedriskblog.com"
-      },
-      "author": "Calculated Risk",
-      "title": "Realtor.com Reports Most Active \"For Sale\" Inventory since December 2019",
-      "description": "What this means:  On a weekly basis, Realtor.com reports the year-over-year change in active inventory and new listings.  On a monthly basis...",
-      "url": "https://www.calculatedriskblog.com/2025/06/realtorcom-reports-most-active-for-sale_26.html",
-      "urlToImage": null,
-      "publishedAt": "2025-06-26T19:29:00Z",
-      "content": "What this means: On a weekly basis, Realtor.com reports the year-over-year change in active inventory and new listings. On a monthly basis, they report total inventory. For May, Realtor.com reported … [+1550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Yves Smith",
-      "title": "Financial Times on Coming Climate-Change-Driven Meltdown in Real Estate: Gradually, Then Suddenly?",
-      "description": "A detailed, yet still softball, take on how climate change damage will wreck property values and much of what passes for an economy",
-      "url": "https://www.nakedcapitalism.com/2025/06/financial-times-on-coming-climate-change-driven-meltdown-in-real-estate-gradually-then-suddenly.html",
-      "urlToImage": null,
-      "publishedAt": "2025-06-27T09:05:53Z",
-      "content": "The Financial Times has an extremely informative new article, Meltdown: How the Next Financial Crisis Starts, on the certainty of the loss of considerable financial wealth due to insurers becoming un… [+17934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "author": "Ida Torres",
-      "title": "Bentley Residences penthouse with car elevator now on sale",
-      "description": "Bentley Residences penthouse with car elevator now on saleThe realistic dream for me, real estate wise, is to have my own house or at least a condo unit somewhere in the city. The...",
-      "url": "https://www.yankodesign.com/2025/06/30/bentley-residences-penthouse-with-car-elevator-now-on-sale/",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/06/bentley-residences-penthouse-with-car-elevator-now-on-sale/bentley-01.jpg",
-      "publishedAt": "2025-06-30T14:20:54Z",
-      "content": "The realistic dream for me, real estate wise, is to have my own house or at least a condo unit somewhere in the city. The unrealistic one, or the actual dream, is to own a penthouse somewhere in one … [+2362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Marcus Mendes",
-      "title": "Apple steps in to save decade-long Cupertino transit project",
-      "description": "Recently, Apple spent more than half a billion dollars to acquire two office campuses it had already been leasing. Now, it shelled out a few million more to avoid a potential traffic disaster in its own backyard.\n\n\n\n more…",
-      "url": "https://9to5mac.com/2025/07/07/apple-steps-in-to-save-decade-long-cupertino-transit-project/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-07T12:02:43Z",
-      "content": "Recently, Apple spent more than half a billion dollars to acquire two office campuses it had already been leasing. Now, it shelled out a few million more to avoid a potential traffic disaster in its … [+1694 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fresno Bee"
-      },
-      "author": "Edward Simon Cruz",
-      "title": "New Costco for Fresno now delayed beyond summer. Here’s what’s happening",
-      "description": "The store would have begun construction in September. Shortly after the city approved construction plans, residents sued to block the project.",
-      "url": "https://www.fresnobee.com/news/article308879265.html",
-      "urlToImage": "https://media.zenfs.com/en/fresno_bee_mcclatchy_articles_660/37b128d8cca698dca50f6ab3ac9889b3",
-      "publishedAt": "2025-06-23T12:30:00Z",
-      "content": "Reality Check is a Fresno Bee series holding those in power to account and shining a light on their decisions. Have a tip? Email tips@fresnobee.com.\r\nAt a Fresno City Council meeting about 15 months … [+5893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Sean Stein Smith, Contributor, \n Sean Stein Smith, Contributor\n https://www.forbes.com/sites/seansteinsmith/",
-      "title": "3 Implications Of Crypto Backed Mortgages For Investors",
-      "description": "Sound money, led by bitcoin, is coming to the housing market",
-      "url": "https://www.forbes.com/sites/digital-assets/2025/06/26/3-implications-of-crypto-backed-mortgages-for-investors/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685ddc999c636cd7d72066de/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-26T23:51:05Z",
-      "content": "Sound money is coming to the mortgage market \r\ngetty\r\nAs the cryptoasset industry continues to accelerate and achieve wider mainstream adoption, one aspect of the financial conversation has remained … [+5094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Wes Moss, Contributor, \n Wes Moss, Contributor\n https://www.forbes.com/sites/wesmoss/",
-      "title": "Is Buying A Home Still A Good Investment?",
-      "description": "With today’s soaring home prices and challenging interest rates, it’s worth reassessing this piece of the American dream: Is buying a house still a good investment?",
-      "url": "https://www.forbes.com/sites/wesmoss/2025/06/16/is-buying-a-home-still-a-good-investment/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6848ef17c95257540dd01917/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-16T18:09:14Z",
-      "content": "Is Buying A Home Still A Good Investment?\r\ngetty\r\nAccording to a 2024 report from the Aspen Institute Financial Security Program, Renters possess less than 3 percent of the wealth of homeowners, with… [+7091 chars]"
+      "title": "Analyst Report: Sanmina Corp",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3372_AnalystReport_1752145622000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-10T11:07:02Z",
+      "content": "James Kelleher, CFA \r\nDirector of Research &amp; Senior Analyst Technology \r\nJim has worked in the financial services industry for over 25 years and joined Argus in 1993. He is director of research a… [+910 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Eric McConnell",
-      "title": "Home Values Have Fallen In More Than Half The Country Since The Start Of 2025",
-      "description": "America's housing affordability crisis has shackled would-be buyers for several years, but some relief may be on the horizon. A recent profile of the housing...",
-      "url": "https://finance.yahoo.com/news/home-values-fallen-more-half-151700358.html",
-      "urlToImage": "https://media.zenfs.com/en/benzinga_79/142e2d072791938497e1c14294a0d197",
-      "publishedAt": "2025-06-18T15:17:00Z",
-      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nAmerica's housing affordability crisis has shackled would-be buyers for several years, but some r… [+3997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": "TMZ Staff",
-      "title": "Fashion Nova CEO Richard Saghian Buys $32 Million Beverly Hills Mansion",
-      "description": "Fashion Nova founder and CEO Richard Saghian is dropping $32 million on a stunning Beverly Hills mansion ... adding another prize to his impressive real estate portfolio. Sources with direct knowledge tell TMZ ... Saghian threaded the needle on the…",
-      "url": "https://www.tmz.com/2025/06/19/fashion-nova-ceo-richard-saghian-buys-beverly-hills-mansion/",
-      "urlToImage": "https://imagez.tmz.com/image/67/16by9/2025/06/19/67b358cedcac4aacb3d2db8070584ac1_xl.jpg",
-      "publishedAt": "2025-06-19T17:38:28Z",
-      "content": "Fashion Nova founder and CEO Richard Saghian is dropping $32 million on a stunning Beverly Hills mansion ... adding another prize to his impressive real estate portfolio.\r\nSources with direct knowled… [+1104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Socialmediaexplorer.com"
-      },
-      "author": "Full Editorial",
-      "title": "A Real Estate Agent’s Guide to Using Social Media to Sell Vacation Homes",
-      "description": "Social media marketing is a valuable resource for expanding your reach as a real estate...\nThe post A Real Estate Agent’s Guide to Using Social Media to Sell Vacation Homes appeared first on Social Media Explorer.",
-      "url": "https://socialmediaexplorer.com/social-media-marketing/a-real-estate-agents-guide-to-using-social-media-to-sell-vacation-homes/",
-      "urlToImage": null,
-      "publishedAt": "2025-06-13T08:24:25Z",
-      "content": "Social media marketing is a valuable resource for expanding your reach as a real estate agent. Today, property buyers can search the world to find vacation home listings in diverse locations. Leverag… [+2784 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Jordan Pandy,Mykenna Maniece",
-      "title": "Not all pro athletes get rich. We spoke with 4 who shared how they're securing their financial futures.",
-      "description": "Many professional athletes earn income over a short period of time. Here's how four of them are planning for their financial futures.",
-      "url": "https://www.businessinsider.com/pro-athletes-share-personal-finance-investing-retirement-advice-2025-6",
-      "urlToImage": "https://i.insider.com/67e6f9a6b8b41a9673fc0e78?width=1200&format=jpeg",
-      "publishedAt": "2025-06-19T11:10:01Z",
-      "content": "Artistic swimmer Anita Alvarez has won Olympic medals, but also has to work other jobs to afford training.Adam Pretty/Getty Images\r\nMost days, Anita Alvarez starts training at 6 a.m. She performs twi… [+9322 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Ayelet Sheffey",
-      "title": "The HENRY parent challenge: Stretching a 6-figure salary to cover childcare, housing, student loans, and saving for their kids' futures",
-      "description": "\"You're paying for your past while also trying to save for your future,\" Max Heninger, a HENRY parent with student debt, said.",
-      "url": "https://www.businessinsider.com/saving-kids-college-henry-parents-student-debt-housing-childcare-bills-2025-6",
-      "urlToImage": "https://i.insider.com/685977d73d5881a51c1be1f3?width=1200&format=jpeg",
-      "publishedAt": "2025-06-26T07:14:01Z",
-      "content": "Some parents are dealing with high childcare and housing costs while putting money in their kids' college funds.SolStock/Getty Images\r\n<ul><li>Parents dealing with childcare costs can relate to being… [+6583 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
       "author": null,
-      "title": "Annual home sales down 4.3% in May, but activity up on monthly basis",
-      "description": "The Canadian Real Estate Association says home sales in May fell 4.3 per cent compared with a year ago, but activity picked up when compared to the previous month.",
-      "url": "https://www.cbc.ca/news/business/crea-may-sales-1.7562192",
-      "urlToImage": "https://i.cbc.ca/1.6552239.1737748854!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/edmonton-s-real-estate-market-is-expected-to-remain-flat-for-a-s.jpg?im=Resize%3D620",
-      "publishedAt": "2025-06-16T15:15:45Z",
-      "content": "The Canadian Real Estate Association says home sales in May fell 4.3 per cent compared with a year ago, but activity picked up when compared to the previous month.\r\nHome sales rose 3.6 per cent from … [+1291 chars]"
+      "title": "Analyst Report: Roper Technologies Inc",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3687_AnalystReport_1753270148000/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2025-07-23T11:29:08Z",
+      "content": "John Eade \r\nPresident &amp; Director of Portfolio Strategies \r\nJohn is chairman and CEO of Argus Research Group and president of Argus Research Company. Over the years, his responsibilities at Argus … [+941 chars]"
     },
     {
       "source": {
@@ -970,116 +125,64 @@
         "name": "Yahoo Entertainment"
       },
       "author": "Claire Boston",
-      "title": "Why the housing market is so stuck, in 4 charts",
-      "description": "Homebuying activity has been weak all spring. These charts explain why.",
-      "url": "https://finance.yahoo.com/news/why-the-housing-market-is-so-stuck-in-4-charts-100054853.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yQBe8ONyXmqICZNk7DTrsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MjE-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/75daba00-4cac-11f0-97df-18f6c7ae1606",
-      "publishedAt": "2025-06-19T10:00:54Z",
-      "content": "The US is in the middle of the typical peak homebuying season, but all signs suggest that the market remains sluggish.\r\nHousing contract activity slipped sharply in April, even though buyers had more… [+5757 chars]"
+      "title": "Mortgage rates hold steady at 6.74%",
+      "description": "Mortgage rates were flat this week, averaging 6.74% on a 30-year loan, according to Freddie Mac.",
+      "url": "https://finance.yahoo.com/news/mortgage-rates-hold-steady-at-674-162025150.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xglOd8fnu8N2aa3qqfIkng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTQ-/https://s.yimg.com/os/creatr-images/2020-02/c6224580-46d3-11ea-8fbe-d837631d7290",
+      "publishedAt": "2025-07-24T16:20:25Z",
+      "content": "Mortgage rates remained basically flat this week, following two straight weeks of increases.\r\nAccording to data from Freddie Mac, the average rate on a 30-year fixed mortgage was 6.74% for the week e… [+1412 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Project Syndicate"
+        "name": "Biztoc.com"
       },
-      "author": "Yi Fuxian",
-      "title": "China’s Housing Crisis Is Worse Than It Seems",
-      "description": "By fueling demographic collapse, Japan’s short-sighted approach to ending its “lost decades” has set the stage for “lost centuries.” Now, Chinese policymakers – who are facing an even more severe housing and demographic crisis – are at risk of making the same…",
-      "url": "https://www.project-syndicate.org/commentary/response-to-china-housing-crisis-will-exacerbate-demographic-decline-by-yi-fuxian-2025-07",
-      "urlToImage": "https://webapi.project-syndicate.org/library/18169a8929241f0159954250445039cb.2-1-super.1.jpg",
-      "publishedAt": "2025-07-03T09:52:27Z",
-      "content": "By fueling demographic collapse, Japans short-sighted approach to ending its lost decades has set the stage for lost centuries. Now, Chinese policymakers who are facing an even more severe housing an… [+6567 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Alcynna Lloyd",
-      "title": "We moved from Salt Lake City to a small Texas town. The high property taxes shocked us, but the small-town vibe is worth it.",
-      "description": "Lance Koster was ready for a career change and believed Texas was the best place to make it happen. The Koster family is happier than ever.",
-      "url": "https://www.businessinsider.com/family-moves-from-salt-lake-city-to-small-texas-town-2025-7",
-      "urlToImage": "https://i.insider.com/68673ebe3d5881a51c1cb7b3?width=600&format=jpeg",
-      "publishedAt": "2025-07-04T23:29:01Z",
-      "content": "The Kosters moved to Justin, a small north Texas town in 2024.Courtesy of Lance and Michelle Koster\r\n<ul><li>Lance Koster was ready for a career change and believed Texas was the best place to make i… [+5575 chars]"
+      "author": "247wallst.com",
+      "title": "Live: Rocket Companies Earnings Coverage",
+      "description": "Rocket Companies (Nasdaq: RKT) reports Q2 earnings after the close with a call scheduled for 4:30 PM ET. Analysts expect revenue of $1.28 billion and normalized EPS of $0.03 — down 50% YoY despite a slight 4% increase in sales. With mortgage rates largely ran…",
+      "url": "https://biztoc.com/x/04ea1accb963c4e7",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-07-31T20:07:09Z",
+      "content": "Rocket Companies (Nasdaq: RKT) reports Q2 earnings after the close with a call scheduled for 4:30 PM ET. Analysts expect revenue of $1.28 billion and normalized EPS of $0.03 down 50% YoY despite a sl… [+140 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TMZ"
+        "name": "Biztoc.com"
       },
-      "author": "TMZ Staff",
-      "title": "Bella Thorne Lists L.A. Home for $4 Million",
-      "description": "Bella Thorne is looking to part ways with her beautiful home in Topanga Canyon ... because she just put her place on the market. Our real estate sources tell us Bella just listed her estate for $3,995,000. Bella's pad is 7,624 square feet with 6…",
-      "url": "https://www.tmz.com/2025/06/25/bella-thorne-lists-topanga-canyon-home-for-4-million/",
-      "urlToImage": "https://imagez.tmz.com/image/5a/16by9/2025/06/25/5a1fe460f0304e7389042758bf2d6977_xl.jpg",
-      "publishedAt": "2025-06-25T22:00:27Z",
-      "content": "Bella Thorne is looking to part ways with her beautiful home in Topanga Canyon ... because she just put her place on the market.\r\nOur real estate sources tell us Bella just listed her estate for $3,9… [+1091 chars]"
+      "author": "fortune.com",
+      "title": "Oxford Economics says the crumbling housing market will continue deteriorating because of two key factors",
+      "description": "The housing market continues to struggle with nearly high mortgage rates and home prices, driven by years of undersupply and slow home construction. Builders face higher costs and labor shortages, and home price growth is expected to slow this year as sellers…",
+      "url": "https://biztoc.com/x/22cdcad9dcaa5f6b",
+      "urlToImage": "https://biztoc.com/cdn/22cdcad9dcaa5f6b_s.webp",
+      "publishedAt": "2025-07-24T18:50:18Z",
+      "content": "The housing market continues to struggle with nearly high mortgage rates and home prices, driven by years of undersupply and slow home construction. Builders face higher costs and labor shortages, an… [+136 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Cracked.com"
       },
-      "author": "David Trainer, Contributor, \n David Trainer, Contributor\n https://www.forbes.com/sites/greatspeculations/people/davidtrainer/",
-      "title": "Open The Door To Owens Corning’s Upside Potential",
-      "description": "This stock is positioned to benefit from the aging housing market and growth in its core markets.",
-      "url": "https://www.forbes.com/sites/greatspeculations/2025/07/10/open-the-door-to-owens-cornings-upside-potential/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686fccc4f99ba624dd23cba7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-10T14:25:12Z",
-      "content": "Toledo - Circa September 2020: Owens Corning Headquarters. Owens Corning develops and produces ... More insulation, roofing, and fiberglass composites.\r\ngetty\r\nUncertainty around the broader economic… [+11644 chars]"
+      "author": "Amanda Mannen",
+      "title": "The ‘Munsters’ Mansion Has the Craziest Fictional Real Estate History Ever",
+      "description": "By\n Amanda Mannen\n Published: July 18th, 2025",
+      "url": "https://www.cracked.com/article_47439_the-munsters-mansion-has-the-craziest-fictional-real-estate-history-ever.html",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/8/0/5/1334805.jpg",
+      "publishedAt": "2025-07-18T12:00:00Z",
+      "content": "The Munster Mansion is one of the most iconic homes in TV history, instantly recognizable even in color. Its so beloved that one Texas couple recreated their own version stake by stake, and you can e… [+2254 chars]"
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Brian Zhang",
-      "title": "I just graduated from Yale. Now, I'm back with my family in low-income housing, and I'm not sure where I belong.",
-      "description": "I grew up in a tight-knit, low-income building. After four years at an Ivy League school, coming home has left me feeling completely lost.",
-      "url": "https://www.businessinsider.com/yale-graduate-moved-back-to-low-income-home-2025-7",
-      "urlToImage": "https://i.insider.com/6865754685e81483682d3f49?width=1200&format=jpeg",
-      "publishedAt": "2025-07-06T11:14:02Z",
-      "content": "The author (middle) has become close with his younger neighbors.Courtesy of Chen Yan\r\n<ul><li>After graduating from Yale, I moved back in with my parents in a low-income building in Brooklyn.</li><li… [+4571 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Stephen Clark, Ars Technica",
-      "title": "‘Major Anomaly’ Behind Latest SpaceX Starship Explosion",
-      "description": "SpaceX CEO Elon Musk suggested on X that a high-pressure nitrogen tank failure was behind the explosion of the company's massive Starship rocket.",
-      "url": "https://www.wired.com/story/spacex-starship-explosion-major-anomaly/",
-      "urlToImage": "https://media.wired.com/photos/6855873a8c3fa706a5ed8add/191:100/w_1280,c_limit/Fireball1_2.1.2-scaled.jpg",
-      "publishedAt": "2025-06-20T16:38:37Z",
-      "content": "Musk wrote that the nitrogen COPV appears to have failed below its proof pressure, within conditions that should not have damaged the tank. \"If further investigation confirms that this is what happen… [+3368 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zack Savitsky",
-      "title": "How the Universe and Its Mirrored Version Are Different",
-      "description": "From living matter to molecules to elementary particles, the world is made of “chiral” objects that differ from their reflected forms.",
-      "url": "https://www.wired.com/story/how-the-universe-differs-from-its-mirror-image/",
-      "urlToImage": "https://media.wired.com/photos/6852baee416aa69fa1193ad6/191:100/w_1280,c_limit/Chirality-byCelsius-Pictor-Lede-scaled.jpeg",
-      "publishedAt": "2025-06-22T11:00:00Z",
-      "content": "Kitty couldnt have digested looking-glass milk. Worse, if it had contained any bacteria with the opposite handedness, her immune system and antibiotics would have been ill suited to put up a fight. A… [+3048 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Kate Knibbs, Reece Rogers",
-      "title": "'Wall-E With a Gun': Midjourney Generates Videos of Disney Characters Amid Massive Copyright Lawsuit",
-      "description": "A week after Disney and Universal filed a landmark lawsuit against Midjourney, the generative AI startup's new V1 video tool will make clips of Shrek, Deadpool, and other famous creations.",
-      "url": "https://www.wired.com/story/midjourney-generates-videos-of-disney-characters-amid-massive-copyright-lawsuit/",
-      "urlToImage": "https://media.wired.com/photos/6855bc264d3e1fd8ef2d25a4/191:100/w_1280,c_limit/GettyImages-2219983205.jpg",
-      "publishedAt": "2025-06-20T20:28:20Z",
-      "content": "Midjourneys new AI-generated video tool will produce animated clips featuring copyrighted characters from Disney and Universal, WIRED has foundincluding video of the beloved Pixar character Wall-E ho… [+3523 chars]"
+      "author": "Laura Grace Tarpley",
+      "title": "Mortgage and refinance interest rates today, August 5, 2025: The 30-year rate falls below 6.5%",
+      "description": "These are today's mortgage and refinance rates. Fixed rates have decreased, and the 30-year rate is now below 6.5%. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-tuesday-august-5-2025-100023478.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
+      "publishedAt": "2025-08-05T10:00:23Z",
+      "content": "Mortgage rates are down today. According to Zillow, the 30-year fixed mortgage rate has decreased by 14 basis points to 6.46%, while the 15-year rate has dropped eight basis points to 5.68%.\r\nWith th… [+5373 chars]"
     },
     {
       "source": {
@@ -1087,38 +190,129 @@
         "name": "blogTO"
       },
       "author": "Becky Robertson",
-      "title": "Toronto's housing market has completely fallen off a cliff",
-      "description": "The new norm in Toronto real estate is a jarring departure from the market of the last decade-plus, with home sales — and, as a result, construction activity — plunging as listings build up and sit on the market for weeks (that is if they aren't just cancelle…",
-      "url": "https://www.blogto.com/real-estate-toronto/2025/07/toronto-housing-market-fallen-off-cliff/",
-      "urlToImage": "https://display.blogto.com/articles/20250704-toronto-real-estate.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-07-04T19:46:58Z",
-      "content": "The new norm in Toronto real estate is a jarring departure from the market of the last decade-plus, with home sales — and, as a result, construction activity — plunging as listings build up and sit o… [+3305 chars]"
+      "title": "Here's where Toronto's real estate market is heating back up right now",
+      "description": "After what has been a nail-biting many months for anyone with a claim in Toronto's real estate market, it looks like sales for certain types of homes — and, in certain parts of the city — are finally picking up again.Some areas of the GTA have seen prices shr…",
+      "url": "https://www.blogto.com/real-estate-toronto/2025/07/where-toronto-real-estate-market-heat-up/",
+      "urlToImage": "https://display.blogto.com/articles/20250728-toronto-real-estate.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
+      "publishedAt": "2025-07-29T04:02:00Z",
+      "content": "After what has been a nail-biting many months for anyone with a claim in Toronto's real estate market, it looks like sales for certain types of homes — and, in certain parts of the city — are finally… [+4080 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sharon  Wu",
+      "title": "Will mortgage rates fall after the July Fed meeting? Here's what experts expect",
+      "description": "Mortgage rates may not be heavily impacted by the Fed meeting, but waiting for the ideal rate could backfire.",
+      "url": "https://www.cbsnews.com/news/will-mortgage-rates-fall-after-july-fed-meeting-what-experts-expect/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/16/2ca3b40d-0624-49bb-b04e-a2c5e4eb8dba/thumbnail/1200x630/f8f6f177b4583eb440985117a65f49cd/gettyimages-1343382351.jpg",
+      "publishedAt": "2025-07-17T14:07:44Z",
+      "content": "Before you sign on the dotted line for a mortgage loan, make sure you understand how the Fed's July meeting could impact rates.\r\nYevhenii Kazykin/Getty Images\r\nWith the Federal Reserve's July meeting… [+5680 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Biztoc.com"
+        "name": "The Patriot Ledger"
       },
-      "author": "axios.com",
-      "title": "The housing market is in the absolute dumps",
-      "description": "Data: National Association of Realtors; Chart: Axios Visuals\nEven as the stock market approaches an all-time high, there is a big dark cloud hovering over the economy: the housing market.\nWhy it matters: Home sales are hovering at historic lows, as economic u…",
-      "url": "https://biztoc.com/x/c88f140363176f8d",
-      "urlToImage": "https://biztoc.com/cdn/c88f140363176f8d_s.webp",
-      "publishedAt": "2025-06-27T09:10:47Z",
-      "content": "Data: National Association of Realtors; Chart: Axios VisualsEven as the stock market approaches an all-time high, there is a big dark cloud hovering over the economy: the housing market.Why it matter… [+141 chars]"
+      "author": "Seth Jacobson, USA TODAY NETWORK - New England",
+      "title": "Founding Father John Hancock's home is on the real estate market in Boston. Take a look",
+      "description": "John Hancock was first to sign Declaration of Independence, the first governor of MA and president of the Second Continental Congress.",
+      "url": "https://www.patriotledger.com/story/lifestyle/real-estate/2025/07/17/john-hancock-boston-real-estate/85236568007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Pl8yj7xcaeopqF0FPdvSxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/patriot-ledger/5c45b386517c5bee090303710e452425",
+      "publishedAt": "2025-07-17T08:43:17Z",
+      "content": "Members of the public have the chance to buy the house of the man who first signed the Declaration of Independence in 1776.\r\nThe 5,748-square-foot home of first Massachusetts Governor and Second Cont… [+3247 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Biztoc.com"
+        "name": "Yahoo Entertainment"
       },
-      "author": "axios.com",
-      "title": "The housing market is in the absolute dumps",
-      "description": "",
-      "url": "https://biztoc.com/x/1a0590a2b729be1d",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-06-27T10:17:34Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Microsoft removing the Blue Screen of Death? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will US-China tra… [+706 chars]"
+      "author": "Shi Bradley",
+      "title": "Mortgage rates move higher, ending six straight weeks of declines",
+      "description": "Mortgage rates are trending up. The average 30-year fixed mortgage rate was 6.72% through Wednesday, up from 6.67% a week earlier.",
+      "url": "https://finance.yahoo.com/news/mortgage-rates-move-higher-ending-six-straight-weeks-of-declines-170054342.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8WZRg3.cDtgNYwkkM.8pfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/835f9bf0-5daa-11f0-9faf-c1a2b697af15",
+      "publishedAt": "2025-07-10T17:00:54Z",
+      "content": "For the first time in six weeks, mortgage rates are trending up.\r\nThe average 30-year fixed mortgage rate was 6.72% through Wednesday, up from 6.67% a week earlier, according to Freddie Mac data. The… [+2123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katherine Watt",
+      "title": "Mortgage Rates Inch Up Since Last Week: Current Mortgage Interest Rates on July 16, 2025",
+      "description": "Experts say homebuying activity will increase as mortgage rates fall, but that might not happen for a while.",
+      "url": "https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-current-mortgage-interest-rates-on-july-16-2025/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b7124d68ec5fdc4b76e21939064387171b7cd825/hub/2025/04/08/70255f18-8d26-4456-8a9d-afc4315bfc87/028-cnet-finance-mortgage-home-purchase.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-16T08:05:00Z",
+      "content": "Check out CNET Money's weekly mortgage rate forecast for a more in-depth look at what’s next for Fed rate cuts, labor data and inflation.\r\nThe average 30-year fixed mortgage interest rate is 6.75% to… [+7315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katherine Watt",
+      "title": "Key Rates Move Higher for Homebuyers: Today's Mortgage Rates for July 18, 2025",
+      "description": "Experts say homebuying activity will increase as mortgage rates fall, but that might not happen for a while.",
+      "url": "https://www.cnet.com/personal-finance/mortgages/key-rates-move-higher-for-homebuyers-todays-mortgage-rates-for-july-18-2025/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/dd5d516f018ff95e37bfbcdcb6ffe58477a5ccfd/hub/2025/04/08/ea2d9f65-1ad2-4dae-ae60-dc0bf2455e88/041-cnet-finance-mortgage-home-purchase-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-18T08:05:00Z",
+      "content": "Check out CNET Money's weekly mortgage rate forecast for a more in-depth look at what’s next for Fed rate cuts, labor data and inflation.\r\nFor a 30-year fixed-rate mortgage, the average rate you'll p… [+7508 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katherine Watt",
+      "title": "Mortgage Rate Predictions: Here's Why Rates Are Staying High in July",
+      "description": "Mortgage rates are stuck in the mud, as uncertainty around Trump's economic policies keeps the Fed on hold.",
+      "url": "https://www.cnet.com/personal-finance/mortgages/mortgage-rate-predictions-heres-why-rates-are-staying-high-in-july/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/0b2d5e04472b51b45f7690e627ea60aa75e37b2b/hub/2024/07/22/de826132-4c4e-4501-9733-449b57a5f926/weekly-mortgage-predictions-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-14T13:17:00Z",
+      "content": "Buyers should keep an eye on the possibility of rate cuts in the next few months. \r\nTharon Green/CNET\r\nAfter the rate on a 30-year fixed mortgage dipped to around 6.7% (its lowest level in months), p… [+4752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NorthJersey.com"
+      },
+      "author": "Maddie McGay, NorthJersey.com",
+      "title": "Housing inventory, price cuts continues to grow in NJ. How the market performed in July",
+      "description": "There were 24.8% more homes for sale in July, with over 1 million homes listed nationwide for the third month in a row.",
+      "url": "https://www.northjersey.com/story/money/real-estate/2025/08/06/nj-real-estate-how-market-performed-july-2025/85526483007/",
+      "urlToImage": "https://media.zenfs.com/en/the-bergen-record/3b0be2f7b88b1c15cf307800316b4757",
+      "publishedAt": "2025-08-06T08:20:39Z",
+      "content": "The real estate market has began to slow after a busy spring and early summer. But the market continued to make strides toward rebalancing in July with a growing number of home listings, more consist… [+6733 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Adrian Volenik",
+      "title": "Why More And More People Are Questioning The Financial Value Of Owning A Home In 2025",
+      "description": "A growing number of Americans are rethinking the long-held belief that owning a home is the key to financial stability. With mortgage rates hovering around 6...",
+      "url": "https://finance.yahoo.com/news/why-more-more-people-questioning-154546338.html",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/decd3cdb07c6298a3fdd7637e3ce0b25",
+      "publishedAt": "2025-07-12T15:45:46Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nA growing number of Americans are rethinking the long-held belief that owning a home is the key t… [+3777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, July 17, 2025: Rates inch up",
+      "description": "These are today's mortgage and refinance interest rates. Interest rates have inclined since yesterday, but not significantly. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-july-17-2025-100041313.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+      "publishedAt": "2025-07-17T10:00:41Z",
+      "content": "Today's mortgage interest rates have increased a little bit. According to Zillow, the 30-year fixed mortgage rate is up five basis points to 6.73%, and the 15-year fixed rate has inched up by two bas… [+5792 chars]"
     },
     {
       "source": {
@@ -1126,181 +320,987 @@
         "name": "Yahoo Entertainment"
       },
       "author": null,
-      "title": "Ron DeSantis slams property taxes in America — he compares it to paying annual taxes on your TV from Best Buy",
+      "title": "Housing market watch: Would taking Freddie Mac and Fannie Mae public drive up mortgage rates in 2026?",
       "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_debd1c6d-a7a8-42ef-948d-73de5bbdf9ea",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c9580541-a976-4499-8f1a-f687ea852c5d",
       "urlToImage": null,
-      "publishedAt": "2025-07-04T11:37:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Diana Olick, CNBC",
-      "title": "Home price hikes are slowing more than expected",
-      "description": "Rising supply and slowing demand in the housing market are finally causing prices to cool off, and the weakness is accelerating",
-      "url": "https://www.nbcnews.com/business/real-estate/home-price-hikes-are-slowing-expected-rcna214783",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250624-house-for-sale-mn-1445-475d36.jpg",
-      "publishedAt": "2025-06-24T18:54:00Z",
-      "content": "Rising supply and slowing demand in the housing market are finally causing prices to cool off, and the weakness is accelerating.\r\nHome prices nationally rose just 2.7% in April compared with the prev… [+2946 chars]"
+      "publishedAt": "2025-07-14T19:30:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "Arizona renter says he was fined $4,000 for leaving negative reviews about property — but is that even legal?",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b502a40-90a3-4ee8-9e24-16a58e5dd036",
-      "urlToImage": null,
-      "publishedAt": "2025-07-05T13:50:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+      "author": "Joy Dumandan",
+      "title": "Single-Family Home Construction Dips as Builders Admit Making Price Cuts To Spur Sales",
+      "description": "Builders are pulling back on the construction of single-family homes amid a slew of factors, including high mortgage rates and inflation.",
+      "url": "https://www.yahoo.com/lifestyle/articles/single-family-home-construction-dips-144300641.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rx.pC83r7kGEAzvG0T6A.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/realtor_com_468/5888fc0f151087dc97d1753cc4a9af0f",
+      "publishedAt": "2025-07-18T14:43:00Z",
+      "content": "The construction of new homes scaled back for the month of June as single-family housing starts were at a rate of 883,000, according to the latest data released Friday by the U.S. Census Bureau and t… [+3144 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
-      "title": "What’s Nvidia More Valuable Than? The U.K. Economy, World's 30 Richest And Total NYC Real Estate Make The List",
-      "description": "Nvidia is worth more than the world’s annual military spending and 97% of the planet’s economies.",
-      "url": "https://www.forbes.com/sites/dereksaul/2025/07/09/whats-nvidia-more-valuable-than-the-uk-economy-worlds-30-richest-and-total-nyc-real-estate-make-the-list/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686ea07c98d335ee938f455d/0x0.jpg?format=jpg&crop=3842,2161,x0,y52,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-09T17:07:13Z",
-      "content": "All but five global economies: Only the U.S., China, Germany, India and Japan had larger 2024 gross domestic products than Nvidias market value, according to the International Monetary Fund, meaning … [+2949 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Charles Pulliam-Moore",
-      "title": "Denis Villeneuve is directing the next Bond film for Amazon",
-      "description": "First, Amazon MGM secured creative control of the James Bond IP, then it brought Amy Pascal and David Heyman in to produce a new feature about the iconic spy. Now, the studio has found a director to lead the project. Last night, Amazon MGM announced that Deni…",
-      "url": "https://www.theverge.com/news/693527/denis-villeneuve-james-bond-amazon-mgm",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2198279073.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-      "publishedAt": "2025-06-26T14:30:36Z",
-      "content": "Tanya Lapointe has also been tapped to executive produce the much-anticipated feature.\r\nFirst, Amazon MGM secured creative control of the James Bond IP, then it brought Amy Pascal and David Heyman in… [+2524 chars]"
+      "author": "Jennifer Schonberger",
+      "title": "Trump set to announce replacement for Fed governor Kugler this week. Is this a tryout for the Fed Chair?",
+      "description": "President Donald Trump said he plans to name a replacement this week for Federal Reserve governor Adriana Kugler, whose unexpected resignation set for this...",
+      "url": "https://finance.yahoo.com/news/trump-set-to-announce-replacement-for-fed-governor-kugler-this-week-is-this-a-tryout-for-the-fed-chair-173754595.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Kd4HI_9jd_q_Gq1LQPp6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/52244fd0-714c-11f0-a6ff-b3e739f0a21d",
+      "publishedAt": "2025-08-04T17:37:54Z",
+      "content": "President Trump said he plans to name a replacement this week for Federal Reserve governor Adriana Kugler, whose unexpected resignation set for this Friday offers the president an opportunity to put … [+4892 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Central"
+        "name": "Yahoo Entertainment"
       },
-      "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
-      "title": "Govee's best-selling outdoor lights get a huge upgrade — and a 20% discount",
-      "description": "The Outdoor Clear Bulb String Lights are guaranteed to liven up your backyard or patio.",
-      "url": "https://www.androidcentral.com/accessories/smart-home/govee-best-selling-outdoor-bulb-string-lights-amazing-upgrade",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vB2bppShDTefGZP3ie2SqN.jpg",
-      "publishedAt": "2025-07-11T02:06:49Z",
-      "content": "Govee's outdoor lighting products have been a runaway hit, so much so that it set up an entire division focused on creating new products in this category. I used the Outdoor String Lights and the Str… [+1859 chars]"
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, August 9, 2025: Fixed rates are unsteady",
+      "description": "These are today's mortgage and refinance rates. While the 30-year rate dropped a few points, the 15-year rate increased slightly. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-august-9-2025-100008941.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
+      "publishedAt": "2025-08-09T10:00:08Z",
+      "content": "Today's mortgage rates have moved in opposite directions. According to Zillow, the 30-year fixed mortgage rate is down by six basis points to 6.44% while the 15-year fixed rate moved up three basis p… [+6376 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Mises.org"
       },
-      "author": "Brittany Vincent",
-      "title": "This Blink Outdoor 4 Floodlight Camera at 54% Off Costs Less Than It Did on Black Friday or Prime Day",
-      "description": "Keep a close eye on what's going on outside of your door with this affordable camera.",
-      "url": "https://gizmodo.com/this-blink-outdoor-4-floodlight-camera-at-54-off-costs-less-than-it-did-on-black-friday-or-prime-day-2000619968",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/blinkfloodlight-1200x675.jpg",
-      "publishedAt": "2025-06-25T14:40:38Z",
-      "content": "Whether you’re planning a summer getaway or just want to feel more secure at home, upgrading your outdoor security setup is a smart move. But you don’t want to buy tons of cameras to do the work of o… [+2214 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Amazon Is Going Nuts, Gives You 2 Free Blink Cameras When You Buy One During Prime Day",
-      "description": "This is the best deal we’ve ever seen on Blink products.",
-      "url": "https://gizmodo.com/amazon-is-going-nuts-gives-you-2-free-blink-cameras-when-you-buy-one-during-prime-day-2000625551",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/blink-outdoor-mini-1200x675.jpg",
-      "publishedAt": "2025-07-08T10:35:24Z",
-      "content": "Amazon is pulling out all the stops for Prime Day, especially when it comes to its own smart home brands. Blink is known for its easy-to-use security cameras and it is front and center with the most … [+2230 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "AJ Dellinger",
-      "title": "Judge Says Requiring ChatGPT to Save Chat Logs Is Not a ‘Mass Surveillance Program’",
-      "description": "Watch what you say.",
-      "url": "https://gizmodo.com/judge-says-requiring-chatgpt-to-save-chat-logs-is-not-a-mass-surveillance-program-2000619160",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106.jpg",
-      "publishedAt": "2025-06-23T21:20:25Z",
-      "content": "OpenAI and some of its users have objected to a court order that requires the company to indefinitely maintain all of ChatGPTs chat logs as part of an ongoing copyright lawsuit, claiming that holding… [+2277 chars]"
+      "author": "Ryan McMaken",
+      "title": "Home Prices fall for Third Month in New Case-Shiller Survey",
+      "description": "Sellers will have to lower their asking prices if they want to sell their homes in a market with much higher mortgage rates.",
+      "url": "https://mises.org/power-market/home-prices-fall-third-month-new-case-shiller-survey",
+      "urlToImage": "https://cdn.mises.org/styles/social_media/s3/images/2025-07/cs%20home.png?itok=omDEZKpf' + og_image: 'https://cdn.mises.org/styles/social_media/s3/images/2025-07/cs%20home.png?itok=omDEZKpf",
+      "publishedAt": "2025-07-31T09:00:00Z",
+      "content": "According to the latest Case-Shiller home price report, released on Wednesday, home prices fell for the third month in a row during May 2025, the most recent month, for which data is available. \r\nThe… [+6732 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Eliza Relman",
-      "title": "A couple transformed a 20-year-old school bus into a mobile home and traveled the country's parks: 'It's not for the lazy'",
-      "description": "Scott Heltz and his partner, Shaquita Riley, knew they wanted to travel the country. So they spent three years renovating a school bus to live in.",
-      "url": "https://www.businessinsider.com/couple-lives-in-school-bus-travels-works-in-national-parks-2025-7",
-      "urlToImage": "https://i.insider.com/6862a253f748d8c055f4a20c?width=872&format=jpeg",
-      "publishedAt": "2025-07-05T08:44:01Z",
-      "content": "Scott Heltz and his partner, Shaquita Riley, outside their renovated school bus.Courtesy of Scott Heltz\r\n<ul><li>Scott Heltz and Shaquita Riley renovated a bus to travel the American West.</li><li>Th… [+4376 chars]"
+      "author": "James Rodriguez",
+      "title": "America's next big land grab is already here. Homebuyers could be the winners.",
+      "description": "Under-the-radar investors known as \"land bankers\" are buying billions of dollars' worth of real estate and setting the stage for a homebuilding boom.",
+      "url": "https://www.businessinsider.com/land-banking-new-home-construction-real-estate-prices-housing-builders-2025-7",
+      "urlToImage": "https://i.insider.com/687fcd74f748d8c055f60f19?width=1200&format=jpeg",
+      "publishedAt": "2025-07-23T08:02:01Z",
+      "content": "There's a weird contradiction happening at the base level of America's real estate market. Faced with high borrowing costs and an uncertain economy, homebuilders the engines of the country's housing … [+13141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GoodHousekeeping.com"
+      },
+      "author": "Maria Sabella",
+      "title": "A Realtor Warns: Don't Make These Common First-Time Homebuyer Mistakes",
+      "description": "Buying your first home is a major financial decision. A realtor explains some of the common pitfalls to steer clear of to avoid stress now and down the road.",
+      "url": "https://www.goodhousekeeping.com/life/money/a62135672/common-first-time-homebuyer-mistakes/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r.6EkjlxEOfftCuy6JZkQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/good_housekeeping_561/9867433b244becda6773b145b5fe3ce3",
+      "publishedAt": "2025-07-14T21:11:00Z",
+      "content": "Purchasing your first home is both an exciting endeavor and a complex process. Between today's low housing inventory and securing a manageable interest rate, navigating the real estate market for the… [+12279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "blogTO"
+      },
+      "author": "Becky Robertson",
+      "title": "Toronto's real estate market is so bad that it's costing the City $70 million in lost funds",
+      "description": "Toronto's recent housing market downfall has been financially disastrous not just for developers, investors and other property owners, but also for the City itself, which is now facing tens of millions in losses amid a dearth of real estate transactions.Accor…",
+      "url": "https://www.blogto.com/real-estate-toronto/2025/07/toronto-real-estate-market-bad-costing-city/",
+      "urlToImage": "https://display.blogto.com/articles/20250721-toronto-real-estate.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
+      "publishedAt": "2025-07-21T14:45:54Z",
+      "content": "Toronto's recent housing market downfall has been financially disastrous not just for developers, investors and other property owners, but also for the City itself, which is now facing tens of millio… [+1220 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Zacks Equity Research",
-      "title": "New Strong Sell Stocks for July 7th",
-      "description": "ARKAY, AAL and COLD have been added to the Zacks Rank #5 (Strong Sell) List on July 7, 2025.",
-      "url": "https://finance.yahoo.com/news/strong-sell-stocks-july-7th-104100783.html",
-      "urlToImage": "https://media.zenfs.com/en/zacks.com/7964272fa232b9e24703b1c33d6e6ba0",
-      "publishedAt": "2025-07-07T10:41:00Z",
-      "content": "Here are three stocks added to the Zacks Rank #5 (Strong Sell) List today:\r\nArkema ARKAY is engaged in the manufacturing and marketing of vinyl products, industrial chemicals, and performance product… [+1166 chars]"
+      "author": "Claire Boston",
+      "title": "Home sales declined in June as prices hit new all-time high",
+      "description": "Home sales slowed in June, as median existing home prices reached a new record of $435,300.",
+      "url": "https://finance.yahoo.com/news/home-sales-declined-in-june-as-prices-hit-new-all-time-high-144708979.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PuF1LhYzp3gsx9Ssxg1_ug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/90985f50-cf6b-11ef-a764-7f54df44996e",
+      "publishedAt": "2025-07-23T14:47:08Z",
+      "content": "Sales of existing homes dropped more than expected in June, the latest sign that record-high prices and elevated mortgage rates are extending the housing markets deep freeze.\r\nAfter jumping in May, s… [+2091 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Yahoo Entertainment"
       },
-      "author": "The Associated Press",
-      "title": "U.S. issues sanctions against United Nations investigator probing abuses in Gaza",
-      "description": "The State Department's decision to impose sanctions on Francesca Albanese, the U.N. special rapporteur for the West Bank and Gaza, follows an unsuccessful campaign to force her removal.",
-      "url": "https://www.npr.org/2025/07/10/g-s1-76915/u-s-sanctions-united-nations-investigator-abuses-gaza",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4995x2810+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Ff3%2Fc8b6e04f4bd0b3b5cd70a5e9151e%2Fap25190693809204.jpg",
-      "publishedAt": "2025-07-10T05:39:20Z",
-      "content": "UNITED NATIONS The Trump administration announced Wednesday that it is issuing sanctions against an independent investigator tasked with probing human rights abuses in the Palestinian territories, th… [+5750 chars]"
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, July 16, 2025: Small moves as home loan rates remain without direction",
+      "description": "These are today's mortgage and refinance interest rates, which are lower for 30-year fixed loans and higher on 15-year fixed mortgages. Lock in your rate...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-wednesday-july-16-2025-100012111.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_ONsRuCiWmr69CrYuQPk7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0",
+      "publishedAt": "2025-07-16T10:00:12Z",
+      "content": "Mortgage interest rates are moving in opposite directions based on loan terms, but only slightly. According to Zillow, the average 30-year fixed rate dropped three basis points to 6.68%. Meanwhile, t… [+5549 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "CNET"
       },
-      "author": "Nathan Edwards",
-      "title": "Norbauer Seneca review: a $3,600 luxury keyboard for the keyboard obsessed",
-      "description": "Some people can tell great wine from okay wine. They go on wine tastings, take wine tours. They tend to spend more money on wine than most. I am not one of those people. I can tell wine from vinegar if you show me the bottle. I am just a little bit obsessed w…",
-      "url": "https://www.theverge.com/reviews/659125/norbauer-seneca-review-luxury-capacitive-keyboard",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Verge_Seneca-53QP.jpg?quality=90&strip=all&crop=0%2C10.75385989963%2C100%2C78.49228020074&w=1200",
-      "publishedAt": "2025-06-15T03:57:33Z",
-      "content": "Some people can tell great wine from okay wine. They go on wine tastings, take wine tours. They tend to spend more money on wine than most. \r\nI am not one of those people. I can tell wine from vinega… [+10003 chars]"
+      "author": "Joshua Rodriguez",
+      "title": "4 Crucial Money Moves You Should Make ASAP",
+      "description": "Maximize your earnings – and minimize your losses – by doing these things now.",
+      "url": "https://www.cnet.com/personal-finance/banking/4-crucial-money-moves-you-should-make-asap/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/33c7445d0e890e12572ee066d51c200484423805/hub/2024/10/18/9a7bf99b-5b19-4ef8-b5a0-f62b7046eee8/gettyimages-2077360657.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-24T19:30:00Z",
+      "content": "Maximize your money before the Fed's decision next week.\r\nMaria Forbes/Getty Images\r\nWith the economic headlines full of tariffs, layoffs and unrelenting high prices, Federal Reserve drama may not se… [+3911 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "MarketWatch"
       },
-      "author": "Gaby Del Valle",
-      "title": "Why are liberals cozying up to race scientists?",
-      "description": "The New York Times' recent report on Zohran Mamdani's Columbia University application raised a lot of questions, such as: In what universe does this fall under the umbrella of news that's fit to print? Why did the paper of record report on hacked materials it…",
-      "url": "https://www.theverge.com/policy/705387/liberals-race-scientists-cremieux-abundance-richard-hanania",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-07-11T17:54:04Z",
-      "content": "The Abundance movement positions Democrats as a party that can offer more to everyone including those peddling scientific racism.\r\nThe New York Times recent report on Zohran Mamdanis Columbia Univers… [+9285 chars]"
+      "author": "Aarthi Swaminathan",
+      "title": "Don’t blame Jerome Powell — or the Fed — if you can’t afford to buy a house right now",
+      "description": "Trump says the Fed’s high interest rates are keeping Americans from buying houses. There’s more to it than that.",
+      "url": "https://www.marketwatch.com/story/dont-blame-jerome-powell-or-the-fed-if-you-cant-afford-to-buy-a-house-right-now-92b04c0f",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/l0Fx36_XfDCM5Mcln00VTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/197667b918a4787ef63134141f09cddf",
+      "publishedAt": "2025-08-02T12:03:00Z",
+      "content": "President Donald Trump has repeatedly accused Federal Reserve Chair Jerome Powell of hindering home buying, saying in a July 18 Truth Social post that Powell and the Fed are choking out the housing m… [+10335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, August 2, 2025: Fixed rates waver",
+      "description": "These are today's mortgage and refinance rates. While the 30-year rate increased slightly, the 15-year rate decreased more noticeably. Lock in your rate...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-august-2-2025-100048671.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
+      "publishedAt": "2025-08-02T10:00:48Z",
+      "content": "Mortgage interest rates fluctuate daily, and today's rates have shifted in different directions. According to Zillow, the 30-year fixed mortgage rate moved up by two basis points, sitting at 6.60%. M… [+6367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifeinsuranceinternational.com"
+      },
+      "author": "GlobalData",
+      "title": "United Risk launches Thriver for real estate market",
+      "description": "Thriver offers alternative security deposit solutions to help renters and property managers save resources and better manage risks.",
+      "url": "https://www.lifeinsuranceinternational.com/news/united-risk-real-estate-market/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KxFDl51RleBzM1.56fKNzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/life_insurance_international_186/611bfca7d87e462a74258ee9ef291db0",
+      "publishedAt": "2025-07-15T15:01:33Z",
+      "content": "United Risk, a managing general agent (MGA), has introduced Thriver, a new division intended to address the real estate market's need for a security deposit waiver insurance product.\r\nThe division op… [+2577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Terry Lane",
+      "title": "Why Lower Mortgage Rates May Not Make Buying a Home More Affordable",
+      "description": "Lower mortgage rates may motivate more people to buy houses, but it will take a bigger drop in borrowing costs to create more home sellers and lead to lower ...",
+      "url": "https://www.investopedia.com/lower-mortgage-rates-may-not-lead-to-lower-home-prices-11770916",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cLs1kFXDO5QlYgSEbrBG6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/6e32d69ea7a61f65edeaf87e05d37851",
+      "publishedAt": "2025-07-18T19:41:31Z",
+      "content": "Eric Thayer / Bloomberg via Getty Images\r\n Lower mortgage rates may not solve all the problems in the housing market, economists said.\r\n<ul><li>Mortgage rates have been elevated for the better part o… [+3260 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Melanie  Lockert",
+      "title": "What homebuyers should do before rate cuts, according to mortgage experts",
+      "description": "If you want to take advantage of future mortgage rate cuts, you may want to make these moves now.",
+      "url": "https://www.cbsnews.com/news/what-homebuyers-should-do-before-rate-cuts-mortgage-experts-say/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/15/12dddaa2-cdeb-4560-82cc-c9c651ef43a3/thumbnail/1200x630/bd048585c2fab6cf33accc521d5cf22a/gettyimages-1771889176.jpg",
+      "publishedAt": "2025-07-15T14:30:16Z",
+      "content": "If you're waiting for mortgage rates to drop, it may benefit you to take a few simple steps now to prepare.\r\nGetty Images\r\nWhether you're buying a new home or considering mortgage refinancing, the ma… [+6881 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Erin  Gobler",
+      "title": "Will mortgage rates rise or fall this August? Here's what lending experts predict",
+      "description": "Here's how experts expect rates to shift in August — and what borrowers can do to prepare for what's to come.",
+      "url": "https://www.cbsnews.com/news/mortgage-rates-rise-fall-august-2025-what-lending-experts-predict/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/29/74000afa-acd2-4fe1-b7fa-f5c61369a92d/thumbnail/1200x630/5006a6ca7669b06d7c9c81abdbb911ed/gettyimages-1193139638.jpg",
+      "publishedAt": "2025-07-29T13:57:08Z",
+      "content": "There could be a shift in mortgage rate trends soon, but homebuyers should also think twice about waiting for that to happen.\r\nGetty Images\r\nHomebuyers who have been waiting for mortgage rates to dro… [+5505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jason Ma",
+      "title": "Top economist sounds the alarm even louder on the housing market and says homebuilders are ‘giving up’",
+      "description": "\"A big tell is that many builders are delaying their land purchases from the land banks. New home sales, starts, and completions will soon fall.\"",
+      "url": "https://finance.yahoo.com/news/top-economist-sounds-alarm-even-205542455.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uqvBrUWpz5DSMkxRGMhmEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/0487093fcc36ff9d69d2f7fcdad89c4c",
+      "publishedAt": "2025-07-20T20:55:42Z",
+      "content": "<ul><li>With mortgage rates remaining high and looking unlikely to drop much anytime soon, the housing market outlook is quickly deteriorating. Moody’s Analytics chief economist Mark Zandi said he th… [+3743 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Hugh Cameron",
+      "title": "The Mortgage Rate Shift That Could Change the Housing Market",
+      "description": "Analysts believe a modest drop in mortgage rates could prove to be a \"magic bullet\" for the U.S. housing market.",
+      "url": "https://www.newsweek.com/mortgage-rates-shift-us-housing-market-2102982",
+      "urlToImage": "https://d.newsweek.com/en/full/2688789/housing-market.jpg",
+      "publishedAt": "2025-07-24T09:00:02Z",
+      "content": "Owning a home remains prohibitively expensive for many Americans, but experts believe a modest decline in mortgage rates could inject much-needed momentum into home sales and help revive the broader … [+4377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "HELOC rates today, August 9, 2025: The answer to high mortgage rates for homeowners",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c9d0b5b-c18a-4d30-af04-f699817c1bff",
+      "urlToImage": null,
+      "publishedAt": "2025-08-09T10:00:15Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Will mortgage rates go up to 7%? Signs to watch for.",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_593825ec-a584-4e17-a6b8-f7dd8aa21d4c",
+      "urlToImage": null,
+      "publishedAt": "2025-07-29T18:40:23Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Denise Petski",
+      "title": "Christina Haack, Tarek El Moussa Shows Canceled At HGTV – Reports",
+      "description": "Christina Haack’s Christina on the Coast and Tarek and Heather Rae El Moussa’s The Flipping El Moussas are among the latest cancellations at HGTV, according to reports in US Weekly and People. In Christina on the Coast, Haack and her team, which includes desi…",
+      "url": "http://deadline.com/2025/07/christina-haack-on-the-coast-canceled-hgtv-tarek-el-moussa-1236459693/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/christina-hall-christina-on-the-coast-hgtv.jpg?w=1024",
+      "publishedAt": "2025-07-16T15:38:24Z",
+      "content": "Christina Haack’s Christina on the Coast and Tarek and Heather Rae El Moussa‘s The Flipping El Moussasare among the latest cancellations at HGTV, according to reports in US Weekly and People.\r\nIn Chr… [+1458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jing Pan",
+      "title": "Over 30 million US homes don’t have a mortgage, report says — why that’s a red flag for the housing market",
+      "description": "It reflects the challenges of getting a foot on the real estate ladder.",
+      "url": "https://finance.yahoo.com/news/over-30-million-us-homes-134300730.html",
+      "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/03e6feb758b8209a839f52ca4e02ca4f",
+      "publishedAt": "2025-07-22T13:43:00Z",
+      "content": "westend61 / Envato\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nHousing affordability has become a pressing issue in America with studies sugge… [+5680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katherine Watt",
+      "title": "Mortgage Rates Climb: Current Mortgage Interest Rates on July 17, 2025",
+      "description": "Don't expect sustained declines in mortgage interest rates until after the summer.",
+      "url": "https://www.cnet.com/personal-finance/mortgages/mortgage-rates-climb-current-mortgage-interest-rates-on-july-17-2025/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b7124d68ec5fdc4b76e21939064387171b7cd825/hub/2025/04/08/70255f18-8d26-4456-8a9d-afc4315bfc87/028-cnet-finance-mortgage-home-purchase.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-17T08:05:00Z",
+      "content": "Check out CNET Money's weekly mortgage rate forecast for a more in-depth look at what’s next for Fed rate cuts, labor data and inflation.\r\nThe average interest rate for a standard 30-year fixed mortg… [+7120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Mortgage rates inch lower this week",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fb53e699-b8da-43da-8afd-44b30a860a83",
+      "urlToImage": null,
+      "publishedAt": "2025-07-24T16:50:51Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Danielle Chemtob, Forbes Staff, \n Danielle Chemtob, Forbes Staff\n https://www.forbes.com/sites/daniellechemtob/",
+      "title": "For Buyers, The U.S. Housing Market Is Better Than It’s Been In Years",
+      "description": "On paper, today’s market is fairly evenly balanced between buyers and sellers. Affordability challenges tell a different story.",
+      "url": "https://www.forbes.com/sites/daniellechemtob/2025/07/31/for-buyers-the-us-housing-market-is-better-than-its-been-in-years/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688bae89a320ca192b200ca2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-31T20:56:39Z",
+      "content": "In its latest earnings report, Americas largest homebuilder D.R. Horton said it expects too boost sales incentives in the fourth quarter. (AP Photo/Alan Diaz)\r\nCopyright 2010 AP. All rights reserved.… [+3992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, August 4, 2025: Holding steady to begin the week",
+      "description": "These are today's HELOC rates, which are unchanged. Average rates are well under 9%, with introductory rates even lower. Lock in your HELOC interest rate...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-monday-august-4-2025-100045557.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
+      "publishedAt": "2025-08-04T10:00:45Z",
+      "content": "The HELOC interest rate remains under 9%. And that doesn't count the introductory rate that can be much lower for the first six months to one year.\r\nA home equity line of credit can be a flexible fin… [+3966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, July 20, 2025: Home equity line of credit rates are unchanged, remaining under 9%",
+      "description": "This is today's HELOC rate, which has not changed and remains below 9%. It's still a good time to consider a HELOC to tap your home's value. Lock in your...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-july-20-2025-100025681.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
+      "publishedAt": "2025-07-20T10:00:25Z",
+      "content": "The HELOC interest rate is standing firm. There has been little rate volatility in recent months, and with financial interest rates, including mortgage rates, remaining calm, a home equity line of cr… [+4171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Steve Forbes, Forbes Staff, \n Steve Forbes, Forbes Staff\n https://www.forbes.com/sites/steveforbes/",
+      "title": "Cut ’Em Loose With No Government Props",
+      "description": "When selling Fannie Mae and Freddie Mac, Washington mustn't do it in a way that guarantees future trouble.",
+      "url": "https://www.forbes.com/sites/steveforbes/2025/07/24/cut-em-loose-with-no-government-props/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68811065d768ad02d46e3770/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-24T20:58:19Z",
+      "content": "(CFOTO/Future Publishing via Getty Images)\r\nCFOTO/Future Publishing via Getty Images\r\nThe Trump Administration is seriously considering privatizing Fannie Mae and Freddie Mac. Its long past time that… [+3082 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "John Carney, John Carney",
+      "title": "Existing-Home Sales Crack Under Pressure From High Interest Rates",
+      "description": "Sales of previously owned homes declined more than expected in June, as elevated mortgage rates continued to suppress buyer activity despite rising inventory levels.\nThe post Existing-Home Sales Crack Under Pressure From High Interest Rates appeared first on …",
+      "url": "https://www.breitbart.com/economy/2025/07/23/existing-home-sales-6/",
+      "urlToImage": "https://media.breitbart.com/media/2025/07/GettyImages-1940291282-e1753287994479-639x335.jpg",
+      "publishedAt": "2025-07-23T16:26:09Z",
+      "content": "Sales of previously owned homes declined more than expected in June, as elevated mortgage rates continued to suppress buyer activity despite rising inventory levels.\r\nExisting-home sales fell 2.7 per… [+2650 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Suzanne Blake",
+      "title": "Austin Home Prices Drop Again Amid Weakening Real Estate Market",
+      "description": "Texas capital's median home prices dropped by 4.9 percent from 2024, according to Realtor.com's July housing report.",
+      "url": "https://www.newsweek.com/austin-home-prices-drop-again-amid-weakening-real-estate-market-2107067",
+      "urlToImage": "https://d.newsweek.com/en/full/2694199/austin-home-sale.jpg",
+      "publishedAt": "2025-07-31T15:58:19Z",
+      "content": "Austin home prices are continuing to decline at a rate of nearly 5 percent as the real estate market reacts to rapid supply increases and weakening demand.\r\nAustin median home prices dropped by 4.9 p… [+5198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daria Uhlig",
+      "title": "Tariffs Are Driving Up 10-Year Treasury Yields — Why That’s Bad News for Refinancing Your Mortgage",
+      "description": "Tariffs are pushing 10-year Treasury yields higher—here’s why that could mean bad news for your mortgage refinancing plans and long-term borrowing costs.",
+      "url": "https://finance.yahoo.com/news/tariffs-driving-10-treasury-yields-210048549.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/onMDgfJptmdSHWXCcSQ7oA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/d56e9c59a38a8e7ce331c7f1da4b2cf9",
+      "publishedAt": "2025-07-16T21:00:48Z",
+      "content": "The bond market, which includes Treasury notes, has experienced volatility this year as a result of Trump administration tariffs on foreign imports. That volatility caused a surge in 10-year Treasury… [+2465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, August 6, 2025: Rates should stay flat this summer",
+      "description": "These are today's mortgage and refinance interest rates. The 15-year rate has stayed constant, while the 30-year rate rose a bit. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-august-5-2025-100052229.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_ONsRuCiWmr69CrYuQPk7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0",
+      "publishedAt": "2025-08-06T10:00:52Z",
+      "content": "Mortgage interest rates today saw very little movement. According to Zillow, the average 30-year fixed mortgage rate rose five basis points to 6.51%. Meanwhile, the 15-year rate stayed flat at 5.68%.… [+5409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, July 26, 2025: Fixed mortgage rates see marginal changes",
+      "description": "These are today's mortgage and refinance rates. The average 30-year fixed rate has moved slightly, shifting down by four basis points. Lock in your rate...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-july-26-2025-100013404.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
+      "publishedAt": "2025-07-26T10:00:13Z",
+      "content": "Today's mortgage interest rates have shifted slightly downward. According to Zillow, the 30-year fixed mortgage rate shifted down by four basis points, sitting at 6.68%. Meanwhile the 15-year fixed r… [+6441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, July 17, 2025: Rates barely inch up",
+      "description": "These are today's mortgage and refinance interest rates. Interest rates have inclined since yesterday, but not significantly. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-thursday-july-17-2025-100041060.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+      "publishedAt": "2025-07-17T10:00:41Z",
+      "content": "Today's mortgage interest rates have increased a little bit. According to Zillow, the 30-year fixed mortgage rate is up five basis points to 6.73%, and the 15-year fixed rate has inched up by two bas… [+5792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, July 10, 2025: Rates bounce both ways as momentum is hard to find",
+      "description": "These are today's mortgage and refinance rates, which are still searching for a trend. However, the 15-year loan rate remains below 6%. Lock in your rate...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-thursday-july-10-2025-100022853.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+      "publishedAt": "2025-07-10T10:00:22Z",
+      "content": "Mortgage rates are walking two different paths today. According to Zillow, the average 30-year fixed mortgage rate fell 10 basis points to 6.61%. However, the 15-year fixed mortgage rate rose three b… [+5836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Eric McConnell",
+      "title": "Millionaires Wanted–How Italy's New Tax Policy Is Turbocharging Its Real Estate Market",
+      "description": "High-net-worth individuals all around the world searching for a simplified tax code have found what they're looking for in Italy. The country quietly...",
+      "url": "https://finance.yahoo.com/news/millionaires-wanted-italys-tax-policy-150015166.html",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/0f1f16407efe32861d19fa71ed3c2df0",
+      "publishedAt": "2025-08-06T15:00:15Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nHigh-net-worth individuals all around the world searching for a simplified tax code have found wh… [+3892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, July 24, 2025: Rates continue their downward trend",
+      "description": "These are today's mortgage and refinance interest rates. Fixed rates have hit their lowest points since last week. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-july-24-2025-100045240.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+      "publishedAt": "2025-07-24T10:00:45Z",
+      "content": "Today's mortgage interest rates have declined again. According to Zillow, the 30-year fixed mortgage rate is down eight basis points to 6.57%, and the 15-year fixed rate has fallen by three basis poi… [+5881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, August 7, 2025: Lowest 30-year rate since spring",
+      "description": "These are today's mortgage and refinance interest rates. The 30-year and 15-year fixed rates have decreased sharply this week. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-august-7-2025-100010306.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+      "publishedAt": "2025-08-07T10:00:10Z",
+      "content": "Today's fixed mortgage rates are relatively low. According to Freddie Mac, the 30-year rate has declined nine basis points to 6.63%, putting it at its lowest point since April. The 15-year rate has d… [+5833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Aarthi Swaminathan",
+      "title": "Mortgage rates plunge to 10-month low, opening window of opportunity for house hunters",
+      "description": "Mortgage rates are plunging as the financial markets try to make sense of a poor July jobs report.",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-plunge-to-10-month-low-opening-window-of-opportunity-for-house-hunters-a245bcaf",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gbT.zP1SHLSAs3zJLukoxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/f6cdc1b3bbc252b90e37c13154693400",
+      "publishedAt": "2025-08-04T20:08:00Z",
+      "content": "The 30-year fixed-rate mortgage is down 18 basis points since Thursday, falling to the lowest level since October 2024. - Getty Images/iStock\r\nMortgage rates are plunging as the financial markets try… [+4772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, August 2, 2025: Home equity lines of credit rising in popularity",
+      "description": "These are today's HELOC rates. A home equity line of credit can be a good way to pay for home improvements or other big expenses. Lock in your HELOC rate...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-august-2-2025-100035571.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DEYBT6nBXCugfeps8WOPog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
+      "publishedAt": "2025-08-02T10:00:35Z",
+      "content": "The national average HELOC interest rate is steady. A home equity line of credit allows you to make on-demand withdrawals from an approved credit balance.\r\nSecond mortgages, like HELOCs, are growing … [+4308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, August 8, 2025: The rate you shop for today won't be your rate later",
+      "description": "This is today's HELOC rate. The national average rate is well under 9%, putting a HELOC monthly payment under $400 for a $50,000 draw. Lock in your HELOC...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-friday-august-8-2025-100024038.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "publishedAt": "2025-08-08T10:00:24Z",
+      "content": "HELOC rates today continue to stay under 9%. However, when you shop for interest rates on a home equity line of credit, you will actually want to consider two rates: the one you pay now and the rate … [+4496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, July 18, 2025: Mortgage rates are slightly lower than last summer",
+      "description": "These are today's mortgage and refinance interest rates. While average rates continue to increase, they haven't changed much since last year. Lock in your...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-july-18-2025-100058057.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+      "publishedAt": "2025-07-18T10:00:58Z",
+      "content": "Mortgage rates have been increasing over the past two weeks. According to Freddie Mac, the national average 30-year fixed mortgage rate has gone up by two basis points to 6.75% this week, and the 15-… [+5643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, August 1, 2025: Unchanged as borrower demand grows",
+      "description": "This is today's HELOC rate. The national average rate is well under 9%, putting a HELOC monthly payment under $400 for a $50,000 draw. Lock in your HELOC...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-friday-august-1-2025-114421999.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "publishedAt": "2025-08-01T11:44:21Z",
+      "content": "HELOC rates today continue to stay under 8.75%. Demand for home equity line of credit accounts are growing, according to the Mortgage Bankers Association. Total debt attributed to HELOCs and home equ… [+4240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, July 16, 2025: The national average on home equity lines of credit remains unchanged",
+      "description": "Today's national average HELOC rate remains unchanged. A HELOC allows you to gain access to your home's value while keeping your primary loan rate intact.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-wednesday-july-16-2025-100001511.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1N13V9BzRI7dAUoW_qyesw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb",
+      "publishedAt": "2025-07-16T10:00:01Z",
+      "content": "HELOC interest rates remain under 8.75%, based on a national average. Of course, your rate on a home equity line of credit may vary based on the amount of equity you have in your home and your credit… [+4399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, July 22, 2025: The home equity line of credit rate hangs steady",
+      "description": "The HELOC rate remains unchanged, with the national average variable rate remaining below 8.75%. Consider tapping a HELOC to access your home's cash value.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-tuesday-july-22-2025-100045292.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jKDHehkcfjwJcGW_XwI.cA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/c4b61900-3fee-11f0-b7db-9b92c1c08f42",
+      "publishedAt": "2025-07-22T10:00:45Z",
+      "content": "The HELOC interest rate is parked and idling. As home equity line of credit interest rates refuse to move, homeowners can shop for introductory rate offers. You can lock in a lower rate for six month… [+4144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, July 18, 2025: Rates are low enough for financial options",
+      "description": "This is today's HELOC rate. The national average rate is well under 9%, making a HELOC an option for paying off credit card debt. Lock in your HELOC rate...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-friday-july-18-2025-100052473.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "publishedAt": "2025-07-18T10:00:52Z",
+      "content": "HELOC rates today are hanging steady below 8.75%. You may have credit card debt with an interest rate twice that high. If so, a home equity line of credit might be a debt consolidation solution to co… [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "HELOC rates today, July 13, 2025: Home equity line of credit rates remain steady",
+      "description": "This is today's HELOC rate, which is staying stagnant. Average rates are under 8.75%, so it could be a good time to get a HELOC. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-july-13-2025-100041716.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
+      "publishedAt": "2025-07-13T10:00:41Z",
+      "content": "The HELOC interest rate holds steady today, inching up by just one basis point. In your free time this weekend, consider how a home equity line of credit could be used to improve and upgrade your hom… [+4167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Anand Sinha",
+      "title": "Cynthia Lummis' new bill could change mortgage rules forever",
+      "description": "Senator Cynthia Lummis' latest bill asks mortgage enterprises to consider crypto assets during single-family eligibility assessment.",
+      "url": "https://www.thestreet.com/crypto/policy/fannie-mae-may-be-forced-to-recognize-bitcoin-thanks-to-new-bill",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/f8d66efd00b6293e7a5eb14d9e641722",
+      "publishedAt": "2025-07-29T22:40:05Z",
+      "content": "Cynthia Lummis' new bill could change mortgage rules forever originally appeared on TheStreet.\r\nSenator Cynthia Lummis (R-WY) introduced a new bill related to mortgages on July 29.\r\nTitled the \"21st … [+2304 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Sydney Lake",
+      "title": "The mortgage rate decline it would take to make an average home affordable is ‘unrealistic,’ Zillow says",
+      "description": "Current mortgage rates are still near 7%.",
+      "url": "https://fortune.com/2025/07/30/mortgage-rates-housing-affordability-zillow-report/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2007595091-e1753827558374.jpg?resize=1200,600",
+      "publishedAt": "2025-07-30T10:26:00Z",
+      "content": "During the pandemic, one of the few things people enjoyed were low mortgage rates. From spring 2020 through 2021, mortgage rates were around or even below 3%. Rates steadily crept up during 2022 and … [+4432 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Aly J Yale",
+      "title": "Will buying a home be more affordable this fall? Here's what lending experts predict.",
+      "description": "Homebuying has been expensive in recent years, but can it become more affordable this fall? Here's what to consider.",
+      "url": "https://www.cbsnews.com/news/will-buying-home-be-more-affordable-fall-2025-what-lending-experts-predict/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/06/6c247878-1461-42e1-9b77-55265c667b64/thumbnail/1200x630/1be52890f23c66d9ed8f81d61f873b93/gettyimages-1347125067.jpg",
+      "publishedAt": "2025-08-06T15:11:45Z",
+      "content": "Homebuyers have been dealing with high rates and elevated prices in recent years.\r\nKevin Kozicki/Getty Images\r\nHousing affordability is always a concern, but with mortgage rates high and inflation ti… [+7041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Shi Bradley",
+      "title": "Mortgage rates average 6.72% following Fed’s continued rate pause",
+      "description": "The average rate on a 30-year fixed mortgage was 6.72% — little changed from a week prior, according to Freddie Mac data.",
+      "url": "https://finance.yahoo.com/news/mortgage-rates-average-672-following-feds-continued-rate-pause-163650786.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PLjFiyskSiO_bEaHJbwX6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/48f55ec0-6e29-11f0-b7d7-2a5bbc3aa212",
+      "publishedAt": "2025-07-31T16:36:50Z",
+      "content": "Mortgage rates dipped this week after the Federal Reserve held benchmark interest rates steady for the fifth time this year.\r\nThe average rate on a 30-year fixed mortgage was 6.72% through the week e… [+1869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Matthew Kazin, Eric Revell",
+      "title": "Mortgage rates tick higher for first time in weeks",
+      "description": "The average rate on the 30-year fixed mortgage rose this week to 6.72%, according to the latest Freddie Mac data released on Thursday. That is up from last...",
+      "url": "https://www.foxbusiness.com/economy/mortgage-rates-july-10-2025",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SFr1JfDdvWctQSsaHq.GXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/76f6918dd7617e355f232343361a1107",
+      "publishedAt": "2025-07-10T16:10:51Z",
+      "content": "Mortgage rates ticked higher for the first time in weeks, mortgage buyer Freddie Mac said Thursday.\r\nFreddie Mac's latest Primary Mortgage Market Survey, released Thursday, showed that the average ra… [+1839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Shi Bradley",
+      "title": "Mortgage rates dip near 2025 lows after weak jobs data",
+      "description": "Weak jobs data helped push mortgage rates lower in recent days. The average rate on a 30-year loan was 6.63%, according to Freddie Mac.",
+      "url": "https://finance.yahoo.com/news/mortgage-rates-dip-near-2025-lows-after-weak-jobs-data-160741325.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yg.wQ58MG7_s7W0dYIeYuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/9cb844e0-73a7-11f0-bfd9-d01b87ff90d7",
+      "publishedAt": "2025-08-07T16:07:41Z",
+      "content": "Mortgage rates dropped sharply this week after a weak July jobs report and steep downward revisions to prior months stoked fresh concerns about the health of the economy.\r\nThe 30-year fixed mortgage … [+1196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, August 7, 2025: Lowest rate since April",
+      "description": "These are today's mortgage and refinance interest rates. The 30-year fixed rate continues to move down and is below 6.5%. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-thursday-august-7-2025-100010493.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+      "publishedAt": "2025-08-07T10:00:10Z",
+      "content": "Today's 30-year fixed mortgage rate is relatively low at 6.48%. According to Zillow data, this is the second time this week that the rate has fallen below 6.5%, putting it at its lowest since April 2… [+5803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hal Bundrick, CFP®",
+      "title": "Mortgage and refinance interest rates today, August 1, 2025: Rates have hardly moved since this time last year",
+      "description": "These are today's mortgage and refinance rates. While average rates continue to inch down, they haven't changed much since last year. Lock in your rate today...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-august-1-2025-100010233.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+      "publishedAt": "2025-08-01T10:00:10Z",
+      "content": "Mortgage rates have seen minimal changes recently. According to Freddie Mac, the national average 30-year and 15-year fixed mortgage rates have gone down two basis points to 6.72% and 5.85%, respecti… [+5029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katherine Watt",
+      "title": "Mortgage Rates Climb: Mortgage Rates for July 10, 2025",
+      "description": "Homebuyers are facing unaffordable home prices and high mortgage rates. Will the housing market change before fall?",
+      "url": "https://www.cnet.com/personal-finance/mortgages/mortgage-rates-climb-mortgage-rates-for-july-10-2025/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b7124d68ec5fdc4b76e21939064387171b7cd825/hub/2025/04/08/70255f18-8d26-4456-8a9d-afc4315bfc87/028-cnet-finance-mortgage-home-purchase.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-10T08:05:00Z",
+      "content": "Check out CNET Money's weekly mortgage rate forecast for a more in-depth look at what’s next for Fed rate cuts, labor data and inflation.\r\nThe average interest rate for a standard 30-year fixed mortg… [+7437 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Charissa Cheong,Shubhangi Goel",
+      "title": "The Big Tech Visa: 7 current and former Big Tech employees share their H-1B visa stories",
+      "description": "Some techies who came to the US and found work on a H-1B visa say it's allowed them to pursue dream careers. For others, doubt has settled in.",
+      "url": "https://www.businessinsider.com/h-1b-visa-big-tech-immigration-green-card-2025-8",
+      "urlToImage": "https://i.insider.com/689270aa85e81483682f58d0?width=1200&format=jpeg",
+      "publishedAt": "2025-08-08T04:05:01Z",
+      "content": "The H-1B visa is a gateway to the American dream for skilled immigrants, but the path for some is paved with anxiety, guilt, and uncertainty.\r\nBig Tech companies like Amazon, Meta, Google and Apple a… [+16906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Average rate on a 30-year mortgage eases again, offering modest relief for home shoppers",
+      "description": "Elevated mortgage rates continue to weigh on the U.S. housing market.",
+      "url": "https://www.bostonherald.com/2025/07/31/mortgage-rates-july-31/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Mortgage_Rates_77182_6dd446.jpg?w=1024&h=682",
+      "publishedAt": "2025-07-31T16:08:41Z",
+      "content": "By ALEX VEIGA, AP Business Writer\r\nThe average rate on a 30-year U.S. mortgage eased to where it was three weeks ago, modest relief for prospective homebuyers challenged by rising home prices and stu… [+3689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Laura Grace Tarpley",
+      "title": "Mortgage and refinance interest rates today for July 28, 2025: Rates have inched upward since last July",
+      "description": "These are today's mortgage and refinance rates. While mortgage rates have risen since last July, the increases aren't drastic. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-monday-july-28-2025-100049431.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/blq3t9wTi4tOOBJGHA0yLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6",
+      "publishedAt": "2025-07-28T10:00:49Z",
+      "content": "Current mortgage interest rates have remained somewhat flat this week. According to Zillow, the average 30-year fixed mortgage rate is sitting at 6.68% while the average 15-year fixed mortgage rate i… [+5467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sydney Lake",
+      "title": "Oxford Economics says the crumbling housing market will continue deteriorating because of two key factors",
+      "description": "Home prices are 55% higher than they were at the beginning of 2020.",
+      "url": "https://finance.yahoo.com/news/oxford-economics-says-crumbling-housing-183832954.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kmNNiaeGXSaIaFHdpYYbMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODk-/https://media.zenfs.com/en/fortune_175/3356118f3aedb9a5dabed58bc334927d",
+      "publishedAt": "2025-07-24T18:38:32Z",
+      "content": "<ul><li>The housing market continues to struggle with nearly high mortgage rates and home prices, driven by years of undersupply and slow home construction. Builders face higher costs and labor short… [+3356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Average rate on a 30-year mortgage drops to lowest level since April",
+      "description": "Mortgage rates remain relatively close to their high this year of around 7%.",
+      "url": "https://www.bostonherald.com/2025/08/07/mortgage-rates-aug-7/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/Mortgage_Rates_11238.jpg?w=1024&h=682",
+      "publishedAt": "2025-08-07T16:07:40Z",
+      "content": "By ALEX VEIGA, AP Business Writer\r\nThe average rate on a 30-year U.S. mortgage has fallen to its lowest level in four months, welcome news for prospective homebuyers who have been held back by stubbo… [+2609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "US new home sales below expectations in June; housing supply rises",
+      "description": "WASHINGTON (Reuters) -Sales of new U.S. single-family homes increased less than expected in June amid higher mortgage rates, pushing inventory to levels last...",
+      "url": "https://finance.yahoo.com/news/us-home-sales-below-expectations-143931267.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/b7aab4b04e28f35380d909ea440e7e19",
+      "publishedAt": "2025-07-24T14:39:31Z",
+      "content": "WASHINGTON (Reuters) -Sales of new U.S. single-family homes increased less than expected in June amid higher mortgage rates, pushing inventory to levels last seen in late 2007, which could keep homeb… [+2184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Laura Grace Tarpley",
+      "title": "Mortgage and refinance interest rates today, July 29, 2025: Rates remain steady ahead of this week's Fed meeting",
+      "description": "These are today's mortgage and refinance rates. 30-year and 15-year mortgage rates have both inched upward. Lock in your rate today.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-july-29-2025-100029360.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
+      "publishedAt": "2025-07-29T10:00:29Z",
+      "content": "Mortgage rates have essentially remained flat this week. According to Zillow, the 30-year and 15-year fixed mortgage rate both rose a single basis point to 6.69% and 5.92%, respectively.\r\nWhile Presi… [+5164 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Alexander Puutio, Contributor, \n Alexander Puutio, Contributor\n https://www.forbes.com/sites/alexanderpuutio/",
+      "title": "Luxury Real Estate Isn’t Slowing Down, It’s Scaling Up",
+      "description": "See how Miami’s Bentley Tower reveals how branded, ultra-high-end real estate defies economic gravity and the downturn in the Florida market overall.",
+      "url": "https://www.forbes.com/sites/alexanderpuutio/2025/07/18/luxury-real-estate-isnt-slowing-down-its-scaling-up/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6873ff9f0637db0ba65c1c7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-18T14:00:00Z",
+      "content": "It's the infinity pools that are defying gravity, as well as the real estate market. \r\ngetty\r\nThings are getting hot in Florida, everywhere else except real estate that is.\r\nIn fact, most of the stat… [+12584 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "John Carney, John Carney",
+      "title": "Powell's Plunge: New Home Sales Down 6.6% From A Year Ago",
+      "description": "Sales of newly built single-family homes in the United States rose slightly in June but remained well below expectations, as elevated mortgage rates and affordability concerns continued to weigh on demand. The U.S. Census Bureau and the Department of Housing\n…",
+      "url": "https://www.breitbart.com/economy/2025/07/24/powells-plunge-new-home-sales-down-6-6-from-a-year-ago/",
+      "urlToImage": "https://media.breitbart.com/media/2025/07/GettyImages-2225581564-e1753378408565-638x335.jpg",
+      "publishedAt": "2025-07-24T17:32:44Z",
+      "content": "Sales of newly built single-family homes in the United States rose slightly in June but remained well below expectations, as elevated mortgage rates and affordability concerns continued to weigh on d… [+2462 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Ashley Lutz, Fortune Intelligence",
+      "title": "The housing market is flashing warning signs about high mortgage rates and Gen Z and millennial first-time buyers, Capital Economics says",
+      "description": "Don't expect mortgage rates to drop anytime soon, the London-based research firm says.",
+      "url": "https://fortune.com/2025/07/10/is-it-good-time-to-buy-house-housing-market-first-time/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-936292036-e1752172375228.jpg?resize=1200,600",
+      "publishedAt": "2025-07-10T18:42:58Z",
+      "content": "Americas housing market is flashing red on multiple fronts, with affordability at its worst in years and little relief in sight. From elevated mortgage rates to general lack of affordability to a dea… [+4437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "California Sen. Adam Schiff under federal investigation for mortgage fraud",
+      "description": "Sen. Adam Schiff (D-CA) is under federal investigation for alleged mortgage fraud, following a criminal referral by the FHFA accusing him of falsifying property and bank documents to secure favorable loan terms. The investigation focuses on conflicting claims…",
+      "url": "https://www.naturalnews.com/2025-08-08-schiff-under-federal-investigation-for-mortgage-fraud.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Adam-Schiff-Traitor-Mugshot-Jail-Arrest.jpg",
+      "publishedAt": "2025-08-08T06:00:00Z",
+      "content": "<ul><li>Sen. Adam Schiff (D-CA) is under federal investigation for alleged mortgage fraud, following a criminal referral by the FHFA accusing him of falsifying property and bank documents to secure f… [+4998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Aaron Newbury",
+      "title": "Reeves making bigger mistakes than Truss, says Badenoch",
+      "description": "Sir Keir Starmer and Rachel Reeves are making “even bigger mistakes” than Liz Truss and have not learnt the lessons of her mini-budget, Kemi Badenoch has...",
+      "url": "https://uk.news.yahoo.com/reeves-making-bigger-mistakes-truss-190000893.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hPHx5308JQN1fnAJ6.rdPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/9cc3d63e5e8921273d1e684b66670804",
+      "publishedAt": "2025-08-02T19:00:00Z",
+      "content": "Sir Keir Starmer and Rachel Reeves are making even bigger mistakes than Liz Truss and have not learnt the lessons of her mini-budget, Kemi Badenoch has warned.\r\nWriting in The Telegraph, the Tory lea… [+10445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Emma Kershaw, Contributor, \n Emma Kershaw, Contributor\n https://www.forbes.com/sites/emmakershaw/",
+      "title": "Stanly Ranch Residences Lists Last Available Estate For $7.99 Million",
+      "description": "The in-demand Stanly Ranch Residences, Auberge Resorts Collection, located in Napa Valley, California, has listed its final five bedroom property for almost $8 million.",
+      "url": "https://www.forbes.com/sites/emmakershaw/2025/07/17/stanly-ranch-residences-lists-last-available-estate-for-799-million/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687923c01429e0a23c585689/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-17T18:35:59Z",
+      "content": "Stanly Ranch Residences \r\nStanly Ranch Residences, Auberge Resorts Collection has listed its final five bedroom property for almost $8 million.\r\nLocated in Napa Valley, 106 Vintners Court is the last… [+2781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katherine Watt",
+      "title": "Key Refi Rates Moves Higher: Today's Refinance Rates, July 29, 2025",
+      "description": "Refinance rates were mixed, but one key rate moved higher.",
+      "url": "https://www.cnet.com/personal-finance/mortgages/key-refi-rates-moves-higher-todays-refinance-rates-july-29-2025/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a0472b261c591312e0d8aedf5580e0cb186972d1/hub/2025/04/08/b5a3ddd5-9420-4a8c-a66a-ad9d3ef81f7a/top-story-88-scaled.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-29T08:00:00Z",
+      "content": "So far this year, average mortgage rates have stayed stubbornly high, bouncing between 6.5% and 7%, as financial markets weigh the risks of both higher inflation and an economic slowdown. Most homeow… [+6769 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Giulia Carbonaro",
+      "title": "Unsold Homes Surge Nationwide As Housing Market Stalls",
+      "description": "Americans are buying fewer homes as mortgage rates remain high and property prices, bafflingly, continue rising at the national level.",
+      "url": "https://www.newsweek.com/unsold-homes-surge-nationwide-housing-market-stalls-2097641",
+      "urlToImage": "https://d.newsweek.com/en/full/2681283/unsold-homes-surge-nationwide-housing-market.png",
+      "publishedAt": "2025-07-12T09:00:01Z",
+      "content": "Thousands of unsold homes are piling up in the U.S. housing market as Americans— facing climbing prices, historically high mortgage rates and growing economic uncertainty—buy fewer homes, according t… [+3974 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Nick Mordowanec",
+      "title": "Homes Are Becoming More Affordable in These 11 Major Cities",
+      "description": "Sun Belt cities have inventory, but \"mortgage rates are impacting everyone\" in different ways, a real estate litigator told Newsweek.",
+      "url": "https://www.newsweek.com/housing-market-real-estate-mortgage-interest-2109772",
+      "urlToImage": "https://d.newsweek.com/en/full/2697682/housing.jpg",
+      "publishedAt": "2025-08-06T16:41:31Z",
+      "content": "Housing in about a dozen major metro areas is becoming more affordable as a boosted national inventory is being countered by increases in median home prices plus rising mortgage and interest rates.\r\n… [+5784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "JJ Kinahan, Senior Contributor, \n JJ Kinahan, Senior Contributor\n https://www.forbes.com/sites/jjkinahan/",
+      "title": "Coca Cola Earning Tomorrow, Alphabet And Tesla Earnings Later This Week",
+      "description": "Markets rose last week, led by tech. Earnings season ramps up with Alphabet and Tesla reporting. Tariff worries and crowded trades may temper investor enthusiasm.",
+      "url": "https://www.forbes.com/sites/jjkinahan/2025/07/21/coca-cola-earning-tomorrow-alphabet-and-tesla-earnings-later-this-week/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687e3d74e33dfc982882590b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-21T13:16:27Z",
+      "content": "Tesla is scheduled to announced earnings later this week. Can Elon Musk convince investors he's ... More focused on the business and not politics? (Photo by Apu Gomes/Getty Images)\r\nGetty Images\r\nKey… [+5208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NerdWallet"
+      },
+      "author": "Holden Lewis",
+      "title": "Weekly Mortgage Rates Rise for First Time Since May",
+      "description": "Mortgage rates turned upward this week after falling the previous five weeks in a row.",
+      "url": "https://www.nerdwallet.com/article/mortgages/weekly-mortgage-rates-7-10-25#article",
+      "urlToImage": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2025/07/GettyImages-174671332-1440x864.jpg",
+      "publishedAt": "2025-07-10T14:50:55Z",
+      "content": "Mortgage rates turned upward this week after falling the previous five weeks in a row.\r\nThe 30-year fixed-rate mortgage averaged 6.78% APR, up four basis points from the previous week's average, acco… [+3346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Realtor.com",
+      "title": "Here’s the magic mortgage rate that will push Americans to buy: survey",
+      "description": "The price of homeownership remains out of reach for many Americans as home prices remain high and mortgage rates continue to hover close to 7%.",
+      "url": "https://nypost.com/2025/07/22/real-estate/heres-the-mortgage-rate-that-will-push-americans-to-buy-survey/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108542716.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-07-22T14:03:44Z",
+      "content": "The price of homeownership remains out of reach for many Americans as home prices remain high and mortgage rates continue to hover close to 7%.\r\nThe total number of unsold homes, including those unde… [+4860 chars]"
     }
   ]
 }

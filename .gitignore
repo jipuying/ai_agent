@@ -8,3 +8,9 @@ env.bak/
 venv.bak/
 
 **/.DS_Store
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 __pycache__ 目录
+__pycache__/

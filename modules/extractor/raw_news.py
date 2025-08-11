@@ -3,7 +3,7 @@ import json
 
 # Init
 newsapi = NewsApiClient(api_key='c3188351f9a947ac8ba407c39a5edfe2')
-query = '"real estate" OR housing OR "home prices" OR property OR "housing market")'
+query = '"mortgage rates " OR "real estate market" OR "property taxs" OR "housing market trends"' 
 
 
 # /v2/everything
